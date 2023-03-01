@@ -1,11 +1,19 @@
 # Tom Ritchford
 
-## Project dashboard
+_Everything should be made as simple as possible, but no simpler._
+
+Resumé: [.md](resume.md) [.pdf](resume.pdf)
+
+## Python open source projects
+
+This is a dashboard of my Python open-source projects on Github.
 
 🟢 means "Release version". <br>
 🕰 means "Most recent commit."
 
-<!--- Automatically generated content below --><h2>Production</h2>
+<!--- Automatically generated content below -->
+
+<h2>Production</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 (🌟 174)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A safer writer for files and streams</i>
