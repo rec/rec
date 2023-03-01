@@ -6,51 +6,80 @@
 - Amsterdam, Netherlands
 
 Decades of experience; a plethora of projects taken from conception to
-completion and production, in areas including fintech, DSP, big data,
-distributed systems and more; hundreds of thousands of lines of working,
-production code in a dozen programming languages; expert in Python, and C++.
+completion and production, in areas including search, large data, audio and DSP,
+fintech, distributed systems, lighting control, audio, and more; hundreds of
+thousands of lines of working, tested production code in two dozen programming
+languages; expert in Python and C++.
 
 I specialize in rapid development of highly reliable, performant, scalable,
 minimal, clear and maintainable solutions to difficult problems. "Everything
 should be made as simple as possible, but no simpler."
 
-## Selected Experience
+## Employment Highlights
 
-### <span>CTO, Engora</span> <span>Jan 2022 -- Jan 2023</span>
+### <span>CTO, Engora</span> <span>April 2021 -- Jan 2023</span>
 
-Engora is an innovative search engine
+[Engora](https://engora.tech/) is an innovative search engine for mechanical
+engineering parts.
 
+The founder created a good demo and then raised money through crowdfunding and
+Reddit and I came in after that, first as a consultant and then became CTO.
+
+As the only full-time programmer I had my hands in everything, but here are the
+parts I wrote all of, all in Python:
+
+* A _parts crawler_ over two dozen disparate disparate websites totalling almost
+a million parts, first directly, then proxied, finally using ScraperAPI's fancy
+new asynchronous proxy, with a _searchable HTTP cache_ in PostgreSQL, later
+rewritten entirely because it got huge and I learned better.
+
+* A _data store_ based on S3, replicated over multiple providers and with an
+incremental offsite "physical" backup, a _data resource management system_, for
+convenient replication of resources, and projects containing multiple resources,
+including sharded files.
+
+* A neat little proprietary _memory-mapped index_ for direct searching and
+retrieval, and [Whoosh](https://whoosh.readthedocs.io/en/latest/) for text
+searching.
+
+* Configuration files and variables, monitoring variables, logging, user
+interaction journaling, and other unsexy but satisfying details.
+
+* "Practically complete" test coverage of everything
+
+* And to run and keep track of all of those, a tidy
+[`typer`](https://typer.tiangolo.com/) _CLI_ named `engora`, with over two dozen
+commands and subcommands, hundreds of flags and "practically complete"
+documentation.
 
 ### <span>Contractor, A-Team</span> <span>January 2021 -- January 2022</span>
 
-A-Team is a consultancy firm
-
+[A-Team](https://www.a.team/) is a consultancy firm with a very usable billing
+and organization system, and a competent, warm and supportive management, that
+provided me with solid but unremarkable programming C++ and Python contracts then.
 
 ### <span>Lead developer on BiblioPixel, Maniacal Labs</span> <span> (2016-2019)
 
-Maniacal Lab's BiblioPixel is a popular lighting control program for LEDs in
-strips, matrices, cubes and other layouts, as well as other lighting systems
-such as the Philips Hue and DMX.
+Maniacal Lab's BiblioPixel was a popular lighting control program written in
+Python to control LEDs in strips, matrices, cubes and other layouts, as well as
+other lighting systems such as the Philips Hue and DMX.
 
 I rewrote it from the ground up, with a REST server for pixel and higher-level
 control, both code and data plug-ins, animators including video feedback with an
-IIR filter, and a new data model to numpy arrays, with order-of-magnitude
-speedup and perfect backwards compatibility.
-
-    Python, C++, Cython
-
+IIR filter, and a new data model using `numpy` arrays, leading to very roughly a
+30x speedup with perfect backwards compatibility. Mostly Python, some Cython and
+C++. (I'd use [pybind11](https://pybind11.readthedocs.io/en/stable/) if I had to
+do it again.)
 
 ### <span>Senior software engineer at Ripple </span> <span>(2014-2016) </span>
 
 Ripple is a financial technology firm with its own eponymous cryptocurrency. I
-worked for most of my time there on their flagship application rippled, a
-complex and complicated C++17 cryptoledger named rippled on deployment,
-debugging, devops, build and monitoring.
+worked on their flagship application `rippled`, a complex and complicated C++17
+crypto-ledger that actually implements their cryptocurrency, on the ledger code,
+on deployment, debugging, devops, build and monitoring. Mostly in C++ with some
+Python.
 
-    C++, Python
-
-
-### <span>Sole developer on SlowGold 8, World Wide Woodshed </span> <span>(2009-2014) </span>
+### <span>CTO, World Wide Woodshed </span> <span>(2009-2014) </span>
 
 I had always wanted to write a complete desktop audio application!
 
@@ -59,14 +88,11 @@ World Wide Woodshed's SlowGold was a leader in music practice software from the
 brand-new product in C++, with high-quality audio, subtle and intuitive editing
 tools, and little details like three second startup and shutdown.
 
-    C++
-
-
 ### <span>Software engineer, Google </span> <span> (2004-2009) </span>
 
-I joined Google New York as a single floor on Times Square, worked on their
-first question-answering system, the first Music Search, then its short-lived
-Real Estate search.
+I joined Google New York when it was a single floor on Times Square, worked on
+their first question-answering system, the first Music Search, then its
+short-lived Real Estate search.
 
 This led me to GoogleBase, a database of tens of billions of items planned for
 millions of users. Leading a tiny and changing team, over two years we built a
@@ -80,36 +106,36 @@ live experiment framework.
 And I interviewed hundreds of engineers, traveling twice to Korea and once to
 Hungary for this.
 
-    C++, Java, Python
-
+I used C++, Java and Python, and the usual string of Google technologies.
 
 ### <span> Senior software developer, Netomat </span> <span> (2001-2004) </span>
 
-Netomat had an innovative rich media tool to send Netomat "experiences" – little
-minisites with animation, sound and internal navigation - to users who could
-edit them within the email itself.
+Netomat had an innovative rich media tool to let users and advertisers create
+and send Netomat "experiences" – little Java applet minisites with animation,
+sound and internal navigation - to users who could edit them within the email
+itself.  Yes, Java applets, but it seemed very plausible at the time.
 
 I designed and wrote the animation engine and front-end, most of the animation
-types and the manual. Still one of my favorite "neat hacks" ever, I wrote a tool
-that converted experiences right into Java bytecode, for a huge savings in
+types and the manual.
+
+Still one of my favorite "neat hacks" ever, I wrote a tool that converted
+"experiences" (animations) right into Java bytecode, for a 40-80% savings in
 download and memory size.
 
-    Java
-
 ## Skills
-- Python: numpy, Cython/C++ APIs, Django, Flask, threading and multiprocessing, real-time
+- expert Python: flask/SQLAlchemy/Django, numpy, Cython/C++ APIs, real-time, packaging!
 - Architecture and high-level design: clean, simple, practical, scale-appropriate designs
-- C/C++: modern C++14/17/20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
-- Data analysis and retrieval: clustering, search, data pipelines, MapReduce, log analysis
-- Considerable Javascript, extensive git, Linux, and bash
-- DevOps: deployment/release/integration, Docker(Compose), monitoring and logging
-- Globalization: Internationalization, localization, translation, encodings
+- Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
+- C/C++: modern C++11-23, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- PostgreSQL database design and use
+- Considerable Javascript, strong Linux, `bash` and particularly `git`
+- practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
+- Globalization: Internationalization, localization, translation, Unicode and encodings
 - Java: distributed systems, automatic bytecode generation, animation
 - Performance optimization
-- Fintech: cryptocurrencies, option models
+- Fintech: ledger systems, option models
 - Real-time systems: digital audio and DSP, lighting control systems, MIDI
 - Tool building: see the dashboard at https://github.com/rec
-
 
 ## Education
 I have a B.Sc. with First Class Honours in Mathematics from Carleton University, Canada.
