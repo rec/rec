@@ -2,7 +2,7 @@
 
 _Everything should be made as simple as possible, but no simpler._
 
-Resumé: [.md](resume.md) [.pdf](resume.pdf)
+Resumé: [.pdf](resume.pdf) [.md](resume.md)
 
 ## My Python open source projects
 
@@ -14,9 +14,11 @@ thoroughly as possible.
 👁 means "Subscribers"
 
  🟢 means "Release version"  <br>
-🕰 means "Most recent commit" <br>
+🕰 means "Most recent commit"
 
 <!--- Automatically generated content below -->
+
+(Last update 2023/03/07, 15:52:53 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 3)
@@ -235,5 +237,3 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/runs/commit/2c8d333"><code>23/02/13</code></a>🕰<code>Removed __version__ from runs.py</code></td>
 </tr></tbody></table>
-
-Rendered at 2023/03/07, 15:32:16 by https://github.com/rec/multi

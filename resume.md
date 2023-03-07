@@ -6,10 +6,10 @@
 - Amsterdam, Netherlands
 
 Decades of experience; a plethora of projects taken from conception to
-completion and production, in areas including search, large data, audio and DSP,
-fintech, distributed systems, lighting control, audio, and more; hundreds of
-thousands of lines of working, tested production code in two dozen programming
-languages; expert in Python and C++.
+completion and production, in areas including search, big data, audio and DSP,
+fintech, distributed systems, real time systems and lighting control, and more;
+hundreds of thousands of lines of working, tested production code in two dozen
+programming languages; expert in Python and C++.
 
 I specialize in rapid development of highly reliable, performant, scalable,
 minimal, clear and maintainable solutions to difficult problems. "Everything
@@ -23,20 +23,20 @@ should be made as simple as possible, but no simpler."
 engineering parts.
 
 The founder created a good demo and then raised money through crowdfunding and
-Reddit and I came in after that, first as a consultant and then became CTO.
+Reddit and I came in after that, first as a consultant and then as CTO.
 
 As the only full-time programmer I had my hands in everything, but here are the
 parts I wrote all of, all in Python:
 
-* A _parts crawler_ over two dozen disparate disparate websites totalling almost
-a million parts, first directly, then proxied, finally using ScraperAPI's fancy
-new asynchronous proxy, with a _searchable HTTP cache_ in PostgreSQL, later
-rewritten entirely because it got huge and I learned better.
+* A _parts crawler_ over two dozen disparate websites totalling almost a million
+parts, carefully rate-limited, first directly, then proxied, finally using
+ScraperAPI's fancy new asynchronous proxy, with a _searchable HTTP cache_ in
+PostgreSQL.
 
 * A _data store_ based on S3, replicated over multiple providers and with an
-incremental offsite "physical" backup, a _data resource management system_, for
-convenient replication of resources, and projects containing multiple resources,
-including sharded files.
+incremental offsite "physical" backup, and a _data resource management system_
+written on top of the data store, for convenient replication of resources, and
+projects containing multiple resources, including databases and sharded files.
 
 * A neat little proprietary _memory-mapped index_ for direct searching and
 retrieval, and [Whoosh](https://whoosh.readthedocs.io/en/latest/) for text
@@ -48,7 +48,7 @@ interaction journaling, and other unsexy but satisfying details.
 * "Practically complete" test coverage of everything
 
 * And to run and keep track of all of those, a tidy
-[`typer`](https://typer.tiangolo.com/) _CLI_ named `engora`, with over two dozen
+[`typer`](https://typer.tiangolo.com/) CLI named `engora`, with over two dozen
 commands and subcommands, hundreds of flags and "practically complete"
 documentation.
 
@@ -56,7 +56,7 @@ documentation.
 
 [A-Team](https://www.a.team/) is a consultancy firm with a very usable billing
 and organization system, and a competent, warm and supportive management, that
-provided me with solid but unremarkable programming C++ and Python contracts then.
+provided me with solid but unremarkable programming C++ and Python contracts.
 
 ### <span>Lead developer on BiblioPixel, Maniacal Labs</span> <span> (2016-2019)
 
@@ -86,7 +86,7 @@ I had always wanted to write a complete desktop audio application!
 World Wide Woodshed's SlowGold was a leader in music practice software from the
 1990s. I bought half the tiny company, and was the sole developer for a
 brand-new product in C++, with high-quality audio, subtle and intuitive editing
-tools, and little details like three second startup and shutdown.
+tools, and little details like three second restart after shutdown.
 
 ### <span>Software engineer, Google </span> <span> (2004-2009) </span>
 
@@ -127,11 +127,10 @@ download and memory size.
 - Architecture and high-level design: clean, simple, practical, scale-appropriate designs
 - Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
 - C/C++: modern C++11-23, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
-- PostgreSQL database design and use
+- PostgreSQL database design, use and some admin
 - Considerable Javascript, strong Linux, `bash` and particularly `git`
 - practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
 - Globalization: Internationalization, localization, translation, Unicode and encodings
-- Java: distributed systems, automatic bytecode generation, animation
 - Performance optimization
 - Fintech: ledger systems, option models
 - Real-time systems: digital audio and DSP, lighting control systems, MIDI
