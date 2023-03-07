@@ -18,7 +18,7 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2023/03/07, 17:40:10 by https://github.com/rec/multi)
+(Last update 2023/03/16, 10:29:00 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 3)
@@ -27,7 +27,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/safer/commit/348ab45"><code>23/02/23</code></a>🟢<code>Update to version v4.5.0</code>
 <br>
-<a href="https://github.com/rec/safer/commit/348ab45"><code>23/02/23</code></a>🕰<code>Update to version v4.5.0</code></td>
+<a href="https://github.com/rec/safer/commit/f2d400b"><code>23/03/09</code></a>🕰<code>Tweak doc header</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗃 <a href="https://github.com/rec/tdir"><code>tdir</code></a> 🗃 &nbsp; &nbsp; (👁 2)
 <br>
@@ -37,13 +37,13 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/tdir/commit/9e96ac7"><code>23/02/23</code></a>🕰<code>Update to version v1.5.0</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 3 &nbsp;👁 3)
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 4 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Named colors in Python</i>
 <br>
-<a href="https://github.com/rec/nc/commit/e26a2d9"><code>23/03/06</code></a>🟢<code>Update to version v1.0.0</code>
+<a href="https://github.com/rec/nc/commit/5db6e23"><code>23/03/08</code></a>🟢<code>Update to version v1.0.1</code>
 <br>
-<a href="https://github.com/rec/nc/commit/e26a2d9"><code>23/03/06</code></a>🕰<code>Update to version v1.0.0</code></td>
+<a href="https://github.com/rec/nc/commit/8130cd4"><code>23/03/09</code></a>🕰<code>Fix documentation</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 10 &nbsp;👁 2)
 <br>
@@ -51,7 +51,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/dtyper/commit/60ccedb"><code>23/02/23</code></a>🟢<code>Update to version v2.1.0</code>
 <br>
-<a href="https://github.com/rec/dtyper/commit/0952e76"><code>23/02/28</code></a>🕰<code>Simplify description in pyproject.toml</code></td>
+<a href="https://github.com/rec/dtyper/commit/cc57018"><code>23/03/08</code></a>🕰<code>Update mkdocs documentation with rec/multi 0.1.1</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖋 <a href="https://github.com/rec/editor"><code>editor</code></a> 🖋 &nbsp; &nbsp; (🌟 8 &nbsp;👁 2)
 <br>
@@ -59,7 +59,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/editor/commit/3654918"><code>23/02/23</code></a>🟢<code>Update to version v1.3.0</code>
 <br>
-<a href="https://github.com/rec/editor/commit/7a10f9b"><code>23/02/28</code></a>🕰<code>Tweak code (with refurb)</code></td>
+<a href="https://github.com/rec/editor/commit/4166206"><code>23/03/09</code></a>🕰<code>Tweak doc header</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛏ <a href="https://github.com/rec/sproc"><code>sproc</code></a> ⛏ &nbsp; &nbsp; (🌟 8 &nbsp;👁 2)
 <br>
@@ -67,7 +67,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/sproc/commit/7a9c0cc"><code>23/02/23</code></a>🟢<code>Update to version v2.2.0</code>
 <br>
-<a href="https://github.com/rec/sproc/commit/7a9c0cc"><code>23/02/23</code></a>🕰<code>Update to version v2.2.0</code></td>
+<a href="https://github.com/rec/sproc/commit/84a2aae"><code>23/03/08</code></a>🕰<code>Update mkdocs documentation with rec/multi 0.1.1</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 <a href="https://github.com/rec/xmod"><code>xmod</code></a> 🌱 &nbsp; &nbsp; (🌟 2 &nbsp;👁 2)
 <br>
@@ -75,7 +75,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/xmod/commit/f5a27d1"><code>23/02/23</code></a>🟢<code>Update to version v1.4.0</code>
 <br>
-<a href="https://github.com/rec/xmod/commit/f5a27d1"><code>23/02/23</code></a>🕰<code>Update to version v1.4.0</code></td>
+<a href="https://github.com/rec/xmod/commit/c4a11bc"><code>23/03/08</code></a>🕰<code>Update mkdocs documentation with rec/multi 0.1.1</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 <a href="https://github.com/rec/impall"><code>impall</code></a> 🛎 &nbsp; &nbsp; (🌟 5 &nbsp;👁 2)
 <br>
@@ -83,9 +83,9 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/impall/commit/be50763"><code>23/02/23</code></a>🟢<code>Update to version v1.2.0</code>
 <br>
-<a href="https://github.com/rec/impall/commit/bcc675f"><code>23/02/28</code></a>🕰<code>Simplify description in pyproject.toml</code></td>
+<a href="https://github.com/rec/impall/commit/c38722e"><code>23/03/08</code></a>🕰<code>Update mkdocs documentation with rec/multi 0.1.1</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 26 &nbsp;👁 3)
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 27 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny useful git commands, some dangerous</i>
 <br>
@@ -99,15 +99,15 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/datacls/commit/134a667"><code>23/02/23</code></a>🟢<code>Update to version v4.6.0</code>
 <br>
-<a href="https://github.com/rec/datacls/commit/134a667"><code>23/02/23</code></a>🕰<code>Update to version v4.6.0</code></td>
+<a href="https://github.com/rec/datacls/commit/fe1d650"><code>23/03/08</code></a>🕰<code>Update mkdocs documentation with rec/multi 0.1.1</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny full-featured abbreviation expander</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Expand abbreviations</i>
 <br>
 <a href="https://github.com/rec/abbrev/commit/32bd372"><code>23/02/23</code></a>🟢<code>Update to version v1.1.0</code>
 <br>
-<a href="https://github.com/rec/abbrev/commit/32bd372"><code>23/02/23</code></a>🕰<code>Update to version v1.1.0</code></td>
+<a href="https://github.com/rec/abbrev/commit/fb678fe"><code>23/03/09</code></a>🕰<code>Tweak doc header</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎴 <a href="https://github.com/rec/dek"><code>dek</code></a> 🎴 &nbsp; &nbsp; (👁 2)
 <br>
@@ -185,7 +185,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/multi/commit/b48d9d1"><code>23/02/02</code></a>🟢<code>Update to version v0.1.0</code>
 <br>
-<a href="https://github.com/rec/multi/commit/6b5ff6d"><code>23/03/07</code></a>🕰<code>Copy emojis into favicons</code></td>
+<a href="https://github.com/rec/multi/commit/f214dd3"><code>23/03/09</code></a>🕰<code>Add code to try to fix _mkdocstrings.css issue</code></td>
 
 <td>⬜🟩🟦🟥 <a href="https://github.com/rec/blocks"><code>blocks</code></a> 🟥🟦🟩⬜ &nbsp; &nbsp; (👁 2)
 <br>
