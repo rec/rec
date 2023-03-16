@@ -37,12 +37,14 @@ PostgreSQL.
 * A _data store_ based on S3, replicated over multiple providers and with an
 incremental offsite "physical" backup stream; and on top of that, a _data
 resource management system_, for convenient replication of resources, and
-projects containing multiple resources, including databases, directories and
-sharded files.
+projects containing multiple, reproducible resources, including databases,
+directories and sharded files.
 
 * A neat little proprietary _memory-mapped index_ for direct searching and
 retrieval, and [Whoosh](https://whoosh.readthedocs.io/en/latest/) for text
 searching.
+
+* A Flask _web server_ (using nginx/gunicorn in production).
 
 * Configuration files and variables, monitoring variables, logging, user
 interaction journaling, and other unsexy but satisfying details.
@@ -125,11 +127,15 @@ download and memory size.
 ## Skills
 - Python expert: flask/SQLAlchemy/Django, numpy, Cython/C++ APIs, real-time, packaging!
 - Architecture and high-level design: clean, simple, practical, scale-appropriate designs
-- Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
-- Rusty C/C++ expert: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- Data analysis and retrieval: clustering, search and indexing, data pipelines,
+  S3, MapReduce, log analysis
+- CI; brutal testing
+- C/C++ expert: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- Java: distributed systems, automatic bytecode generation, animation
 - PostgreSQL database design, use and some admin
-- Considerable Javascript, strong Linux, `bash` and particularly `git`
-- practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
+- Considerable Javascript, strong Linux, `bash`
+- Strong`git` (I wrote this https://github.com/rec/gitz)
+- Practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
 - Globalization: Internationalization, localization, translation, Unicode and encodings
 - Performance optimization
 - Fintech: ledger systems, option models
