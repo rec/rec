@@ -20,7 +20,7 @@ minimal, clear and maintainable solutions to difficult problems.
 
 ### <span>CTO, Engora</span> <span>April 2021 -- Jan 2023</span>
 
-[Engora](https://engora.tech/) is an innovative search engine for mechanical
+[Engora](https://search.engora.tech/) is an innovative search engine for mechanical
 engineering parts.
 
 The founder created a good demo, and then raised money through crowdfunding and
@@ -125,13 +125,13 @@ Still one of my favorite "neat hacks" ever, I wrote a tool that converted
 download and memory size.
 
 ## Skills
-- Python expert: flask/SQLAlchemy/Django, numpy, Cython/C++ APIs, real-time, packaging!
+- Python: flask/SQLAlchemy/Django, numpy, Cython/C++ APIs, real-time, packaging!
+- C/C++ expert: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- Java: distributed systems, automatic bytecode generation, animation
 - Architecture and high-level design: clean, simple, practical, scale-appropriate designs
 - Data analysis and retrieval: clustering, search and indexing, data pipelines,
   S3, MapReduce, log analysis
 - CI; brutal testing
-- C/C++ expert: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
-- Java: distributed systems, automatic bytecode generation, animation
 - PostgreSQL database design, use and some admin
 - Considerable Javascript, strong Linux, `bash`
 - Strong`git` (I wrote this https://github.com/rec/gitz)

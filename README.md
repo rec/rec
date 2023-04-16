@@ -4,6 +4,8 @@ _Everything should be made as simple as possible, but no simpler._
 
 Resumé: [.pdf](resume.pdf) [.md](resume.md)
 
+![My GitHub stats](https://github-stats.vercel.app/api?username=rec&show_icons=true)
+
 ## My Python open source projects
 
 This is a dashboard of my active Python open-source projects on Github, mostly
