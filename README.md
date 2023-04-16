@@ -20,7 +20,7 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2023/04/13, 11:29:18 by https://github.com/rec/multi)
+(Last update 2023/04/28, 15:03:04 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 3)
@@ -47,7 +47,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/nc/commit/8130cd4"><code>23/03/09</code></a>🕰<code>Fix documentation</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 10 &nbsp;👁 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 11 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Fix and improve `typer`</i>
 <br>
@@ -95,7 +95,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/impall/commit/c38722e"><code>23/03/08</code></a>🕰<code>Update mkdocs documentation with rec/multi 0.1.1</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 27 &nbsp;👁 3)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 28 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny useful git commands, some dangerous</i>
 <br>
@@ -161,7 +161,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/litoid/commit/51c8703"><code>23/04/12</code></a>🕰<code>Split and rename some MIDI files</code></td>
+<a href="https://github.com/rec/litoid/commit/8c03124"><code>23/04/27</code></a>🕰<code>Display DMX on the canvas</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/rec/nmr"><code>nmr</code></a> 🌐
 <br>
@@ -183,9 +183,9 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XDG standard config files</i>
 <br>
-<a href="https://github.com/rec/cfgs/commit/3ea3827"><code>23/02/02</code></a>🟢<code>Update to version v0.10.3</code>
+<a href="https://github.com/rec/cfgs/commit/738afce"><code>23/04/21</code></a>🟢<code>Update version to v0.12.0</code>
 <br>
-<a href="https://github.com/rec/cfgs/commit/d61d866"><code>23/02/13</code></a>🕰<code>Remove VERSION</code></td>
+<a href="https://github.com/rec/cfgs/commit/738afce"><code>23/04/21</code></a>🕰<code>Update version to v0.12.0</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📦 <a href="https://github.com/rec/backer"><code>backer</code></a> 📦 &nbsp; &nbsp; (👁 2)
 <br>
@@ -197,31 +197,39 @@ thoroughly as possible.
 </tr></tbody></table>
 <p>
 <h2>Personal</h2>
-<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 <a href="https://github.com/rec/multi"><code>multi</code></a> 📚 &nbsp; &nbsp; (👁 2)
+<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐘 <a href="https://github.com/rec/fortune"><code>fortune</code></a> 🐘
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A Mastodon bot for /usr/games/fortune</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/fortune/commit/e7d8cd0"><code>23/04/24</code></a>🕰<code>Change description of project in pyproject.toml</code></td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 <a href="https://github.com/rec/multi"><code>multi</code></a> 📚 &nbsp; &nbsp; (👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Manage all my other projects</i>
 <br>
 <a href="https://github.com/rec/multi/commit/b48d9d1"><code>23/02/02</code></a>🟢<code>Update to version v0.1.0</code>
 <br>
-<a href="https://github.com/rec/multi/commit/f227858"><code>23/04/11</code></a>🕰<code>Add project clsprop, clean multi.toml</code></td>
-
-<td>⬜🟩🟦🟥 <a href="https://github.com/rec/blocks"><code>blocks</code></a> 🟥🟦🟩⬜ &nbsp; &nbsp; (👁 2)
+<a href="https://github.com/rec/multi/commit/e06d122"><code>23/04/24</code></a>🕰<code>Add fortune to personal projects</code></td>
+</tr>
+<tr><td>⬜🟩🟦🟥 <a href="https://github.com/rec/blocks"><code>blocks</code></a> 🟥🟦🟩⬜ &nbsp; &nbsp; (👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Solve a block puzzle</i>
 <br>
 <a href="https://github.com/rec/blocks/commit/0a68f51"><code>23/02/02</code></a>🟢<code>Update to version v1.0.1</code>
 <br>
 <a href="https://github.com/rec/blocks/commit/af57dc8"><code>23/02/07</code></a>🕰<code>Added FUNDING.yml</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❓ <a href="https://github.com/rec/test"><code>test</code></a> ❓ &nbsp; &nbsp; (👁 2)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❓ <a href="https://github.com/rec/test"><code>test</code></a> ❓ &nbsp; &nbsp; (👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny bits of experimental code</i>
 <br>
 
 <br>
 <a href="https://github.com/rec/test/commit/68cd309"><code>23/04/11</code></a>🕰<code>Add python/underscore_class.py</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫ <a href="https://github.com/rec/dotfiles"><code>dotfiles</code></a> ⚫ &nbsp; &nbsp; (👁 2)
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫ <a href="https://github.com/rec/dotfiles"><code>dotfiles</code></a> ⚫ &nbsp; &nbsp; (👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>My dotfiles</i>
 <br>
