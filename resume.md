@@ -9,7 +9,7 @@ Decades of experience; a plethora of projects taken from conception to
 completion and production, in areas including search and backend, big data,
 audio and DSP, fintech, distributed systems, real time systems and lighting
 control, and more; hundreds of thousands of lines of working, tested production
-code in two dozen programming languages; expert in Python and C++.
+code in two dozen programming languages; expert in Python, C++.
 
 I specialize in rapid development of highly reliable, performant, scalable,
 minimal, clear and maintainable solutions to difficult problems.
@@ -78,8 +78,8 @@ C++17 crypto-ledger that implements their XRP cryptocurrency, on the ledger
 code, on deployment, debugging, devops, build and monitoring, mostly in C++ with
 some Python.
 
-While this was a challenging and educational position, I am not willing to work
-in the cryptocurrency field at this time.
+While this was a challenging and very educational position, I am not willing to work in
+the cryptocurrency field at this time.
 
 ### <span>CTO, World Wide Woodshed </span> <span>(2009-2014) </span>
 
@@ -101,9 +101,9 @@ millions of users. Leading a tiny and changing team, over two years we built a
 universal reporting and computation framework I had proposed and designed. It
 was still in common use years later.
 
-As a reward for this slog, I was privileged to work on GWS, the front end that
-generated all Google results pages, for i18n, l10n and translations, and the GWS
-live experiment framework.
+As a reward for this slog, I was privileged to work on GWS, the front end program,
+written in C++ that generated all Google results pages, for i18n, l10n and translations,
+and the GWS live experiment framework.
 
 And I interviewed hundreds of engineers, traveling twice to Korea and once to
 Hungary for this.
@@ -125,22 +125,21 @@ Still one of my favorite "neat hacks" ever, I wrote a tool that converted
 download and memory size.
 
 ## Skills
-- Python: flask/SQLAlchemy/Django, numpy, Cython/C++ APIs, real-time, packaging!
-- C/C++ expert: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
-- Java: distributed systems, automatic bytecode generation, animation
 - Architecture and high-level design: clean, simple, practical, scale-appropriate designs
+- Python: FastAPI/Pydantic/Flask/SQLAlchemy/Django, numpy, Cython, real-time, packaging, more..
+- C/C++: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- Considerable Javascript, strong Linux,  Bash scripting
 - Data analysis and retrieval: clustering, search and indexing, data pipelines,
   S3, MapReduce, log analysis
-- CI; brutal testing
+- Continuous integration; brutal, thorough testing
 - PostgreSQL database design, use and some admin
-- Considerable Javascript, strong Linux, `bash`
-- Strong`git` (I wrote this https://github.com/rec/gitz)
+- Strong Git (I wrote this: https://github.com/rec/gitz)
 - Practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
 - Globalization: Internationalization, localization, translation, Unicode and encodings
 - Performance optimization
 - Fintech: ledger systems, option models
 - Real-time systems: digital audio and DSP, lighting control systems, MIDI
-- Tool building: see the dashboard at https://github.com/rec
+- Tool building: see my tools dashboard at https://github.com/rec
 
 ## Education
 I have a B.Sc. with First Class Honours in Mathematics from Carleton University, Canada.
