@@ -20,24 +20,24 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2023/10/18, 12:13:05 by https://github.com/rec/multi)
+(Last update 2023/12/29, 17:08:51 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A safer writer for files and streams</i>
 <br>
-<a href="https://github.com/rec/safer/commit/bc47995"><code>23/10/05</code></a>🟢<code>Update version to v4.10.1</code>
+<a href="https://github.com/rec/safer/commit/1a3527d"><code>23/12/29</code></a>🟢<code>Update version to v4.12.0</code>
 <br>
-<a href="https://github.com/rec/safer/commit/95adbe7"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/safer/commit/bfc472e"><code>23/12/29</code></a>🕰<code>Add more typing to safer</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗃 <a href="https://github.com/rec/tdir"><code>tdir</code></a> 🗃 &nbsp; &nbsp; (👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Create and fill a temporary directory</i>
 <br>
-<a href="https://github.com/rec/tdir/commit/7726c66"><code>23/10/05</code></a>🟢<code>Update version to v1.7.1</code>
+<a href="https://github.com/rec/tdir/commit/556876c"><code>23/12/29</code></a>🟢<code>Update version to v1.8.0</code>
 <br>
-<a href="https://github.com/rec/tdir/commit/1fa0061"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/tdir/commit/c8afda3"><code>23/12/29</code></a>🕰<code>Add tdir/py.typed</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 4 &nbsp;👁 3)
 <br>
@@ -47,7 +47,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/nc/commit/ba360ff"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 15 &nbsp;👁 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 16 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Fix and improve `typer`</i>
 <br>
@@ -67,19 +67,19 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Open the default text editor</i>
 <br>
-<a href="https://github.com/rec/editor/commit/713f614"><code>23/10/05</code></a>🟢<code>Update version to v1.4.0</code>
+<a href="https://github.com/rec/editor/commit/ae2808f"><code>23/12/29</code></a>🟢<code>Update version to v1.5.0</code>
 <br>
-<a href="https://github.com/rec/editor/commit/e71bc2a"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/editor/commit/63e4158"><code>23/12/29</code></a>🕰<code>Add editor/py.typed</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧵 <a href="https://github.com/rec/threa"><code>threa</code></a> 🧵 &nbsp; &nbsp; (🌟 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Better threads</i>
 <br>
-<a href="https://github.com/rec/threa/commit/de27451"><code>23/10/13</code></a>🟢<code>Update version to v1.0.0</code>
+<a href="https://github.com/rec/threa/commit/e1e33a3"><code>23/12/28</code></a>🟢<code>Update version to v1.8.1</code>
 <br>
-<a href="https://github.com/rec/threa/commit/239f906"><code>23/10/18</code></a>🕰<code>Add coverage dependency</code></td>
+<a href="https://github.com/rec/threa/commit/dc65126"><code>23/12/28</code></a>🕰<code>Revert "Clarify the meaning of finish()"</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛏ <a href="https://github.com/rec/sproc"><code>sproc</code></a> ⛏ &nbsp; &nbsp; (🌟 9 &nbsp;👁 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛏ <a href="https://github.com/rec/sproc"><code>sproc</code></a> ⛏ &nbsp; &nbsp; (🌟 10 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Subprocesseses for subhumanses</i>
 <br>
@@ -99,25 +99,25 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Turn any object into a module</i>
 <br>
-<a href="https://github.com/rec/xmod/commit/28396cd"><code>23/10/05</code></a>🟢<code>Update version to v1.6.0</code>
+<a href="https://github.com/rec/xmod/commit/1e218e9"><code>23/12/29</code></a>🟢<code>Update version to v1.8.0</code>
 <br>
-<a href="https://github.com/rec/xmod/commit/7ece425"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/xmod/commit/706d1d4"><code>23/12/29</code></a>🕰<code>Add xmod/py.typed</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 <a href="https://github.com/rec/impall"><code>impall</code></a> 🛎 &nbsp; &nbsp; (🌟 7 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Test-import all modules</i>
 <br>
-<a href="https://github.com/rec/impall/commit/fcf9b91"><code>23/09/23</code></a>🟢<code>Update version to v1.4.0</code>
+<a href="https://github.com/rec/impall/commit/1ee6732"><code>23/12/12</code></a>🟢<code>Update version to v1.5.1</code>
 <br>
-<a href="https://github.com/rec/impall/commit/91c6d90"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/impall/commit/b02861f"><code>23/12/12</code></a>🕰<code>Fix paths vs PATHS (fix #23)</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 30 &nbsp;👁 3)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 29 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny useful git commands, some dangerous</i>
 <br>
-<a href="https://github.com/rec/gitz/commit/c7bf011"><code>23/10/17</code></a>🟢<code>Update version to v1.6.2</code>
+<a href="https://github.com/rec/gitz/commit/9f34308"><code>23/12/27</code></a>🟢<code>Update version to v1.7.0</code>
 <br>
-<a href="https://github.com/rec/gitz/commit/e389e0d"><code>23/10/18</code></a>🕰<code>Add coverage dependency</code></td>
+<a href="https://github.com/rec/gitz/commit/1eb3d4d"><code>23/12/27</code></a>🕰<code>Replace `git-go travis` with `git-go top`</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗂 <a href="https://github.com/rec/datacls"><code>datacls</code></a> 🗂 &nbsp; &nbsp; (🌟 2)
 <br>
@@ -127,7 +127,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/datacls/commit/d763e99"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜 &nbsp; &nbsp; (🌟 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜 &nbsp; &nbsp; (🌟 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Expand abbreviations</i>
 <br>
@@ -139,9 +139,9 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The decorator-decorator</i>
 <br>
-<a href="https://github.com/rec/dek/commit/40de930"><code>23/10/05</code></a>🟢<code>Update version to v1.3.0</code>
+<a href="https://github.com/rec/dek/commit/4e71105"><code>23/12/29</code></a>🟢<code>Update version to v1.4.0</code>
 <br>
-<a href="https://github.com/rec/dek/commit/d2adf92"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/dek/commit/0bd244a"><code>23/12/29</code></a>🕰<code>Add changes from black, isort, mypy, ruff</code></td>
 </tr></tbody></table>
 <p>
 <h2>Beta</h2>
@@ -171,13 +171,13 @@ thoroughly as possible.
 </tr></tbody></table>
 <p>
 <h2>Experimental</h2>
-<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎬 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎬 &nbsp; &nbsp; (👁 2)
+<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (👁 2)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Record everything automatically</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>recs: the Universal Recorder</i>
 <br>
-<a href="https://github.com/rec/recs/commit/4232953"><code>19/04/01</code></a>🟢<code>Version v0.5.1</code>
+<a href="https://github.com/rec/recs/commit/a5b81af"><code>23/11/20</code></a>🟢<code>Update version to v0.2.0</code>
 <br>
-<a href="https://github.com/rec/recs/commit/27b1458"><code>23/10/17</code></a>🕰<code>Tweak whitespace in test_end_to_end.py</code></td>
+<a href="https://github.com/rec/recs/commit/61809fa"><code>23/12/28</code></a>🕰<code>Modify recs/ui/device_proxy.py, recs/ui/recorder.py</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔉 <a href="https://github.com/rec/vl8"><code>vl8</code></a> 🔉 &nbsp; &nbsp; (🌟 3 &nbsp;👁 2)
 <br>
@@ -259,7 +259,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/test/commit/a1808f5"><code>23/10/03</code></a>🕰<code>Several changes</code></td>
+<a href="https://github.com/rec/test/commit/4441f82"><code>23/12/14</code></a>🕰<code>More experiments</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫ <a href="https://github.com/rec/dotfiles"><code>dotfiles</code></a> ⚫ &nbsp; &nbsp; (👁 2)
 <br>
@@ -287,11 +287,11 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/timedata-org/loady/commit/872ffa1"><code>23/02/13</code></a>🕰<code>Remove loady/VERSION</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏃 <a href="https://github.com/rec/runs"><code>runs</code></a> 🏃 &nbsp; &nbsp; (🌟 2 &nbsp;👁 3)
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏃 <a href="https://github.com/rec/runs"><code>runs</code></a> 🏃 &nbsp; &nbsp; (🌟 3 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Run a block of text as a subprocess</i>
 <br>
-<a href="https://github.com/rec/runs/commit/787ccb5"><code>20/11/17</code></a>🟢<code>Version v1.1.0</code>
+<a href="https://github.com/rec/runs/commit/cc4f9a0"><code>23/12/29</code></a>🟢<code>Update version to v1.2.0</code>
 <br>
-<a href="https://github.com/rec/runs/commit/55926dd"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/runs/commit/26fb856"><code>23/12/29</code></a>🕰<code>Add typing and toolchain fixes</code></td>
 </tr></tbody></table>
