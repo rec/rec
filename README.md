@@ -22,14 +22,14 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2023/12/29, 17:08:51 by https://github.com/rec/multi)
+(Last update 2023/12/30, 14:36:59 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A safer writer for files and streams</i>
 <br>
-<a href="https://github.com/rec/safer/commit/1a3527d"><code>23/12/29</code></a>🟢<code>Update version to v4.12.0</code>
+<a href="https://github.com/rec/safer/commit/767580e"><code>23/12/29</code></a>🟢<code>Update version to v4.12.1</code>
 <br>
 <a href="https://github.com/rec/safer/commit/bfc472e"><code>23/12/29</code></a>🕰<code>Add more typing to safer</code></td>
 
@@ -93,9 +93,9 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Read/write JSON/TOML/Yaml/txt</i>
 <br>
-<a href="https://github.com/rec/fil/commit/ed7d991"><code>23/07/09</code></a>🟢<code>Update version to v1.3.0</code>
+<a href="https://github.com/rec/fil/commit/d5b074d"><code>23/12/30</code></a>🟢<code>Update version to v1.4.1</code>
 <br>
-<a href="https://github.com/rec/fil/commit/d135c34"><code>23/10/18</code></a>🕰<code>Add coverage dependency</code></td>
+<a href="https://github.com/rec/fil/commit/bb4c813"><code>23/12/30</code></a>🕰<code>Add coverage level to pyproject.toml</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 <a href="https://github.com/rec/xmod"><code>xmod</code></a> 🌱 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
 <br>
@@ -151,17 +151,17 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Read/write JSON/TOML/Yaml/txt</i>
 <br>
-<a href="https://github.com/rec/fil/commit/ed7d991"><code>23/07/09</code></a>🟢<code>Update version to v1.3.0</code>
+<a href="https://github.com/rec/fil/commit/d5b074d"><code>23/12/30</code></a>🟢<code>Update version to v1.4.1</code>
 <br>
-<a href="https://github.com/rec/fil/commit/d135c34"><code>23/10/18</code></a>🕰<code>Add coverage dependency</code></td>
+<a href="https://github.com/rec/fil/commit/bb4c813"><code>23/12/30</code></a>🕰<code>Add coverage level to pyproject.toml</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔢 <a href="https://github.com/rec/plur"><code>plur</code></a> 🔢
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Simple universal word pluralizer</i>
 <br>
-<a href="https://github.com/rec/plur/commit/0545358"><code>23/10/05</code></a>🟢<code>Update version to v0.4.0</code>
+<a href="https://github.com/rec/plur/commit/62cccf3"><code>23/12/30</code></a>🟢<code>Update version to v1.0.0</code>
 <br>
-<a href="https://github.com/rec/plur/commit/478e3e9"><code>23/10/18</code></a>🕰<code>Add coverage dependency</code></td>
+<a href="https://github.com/rec/plur/commit/afb9b4a"><code>23/12/30</code></a>🕰<code>Add typing and toolchain fixes</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍇 <a href="https://github.com/rec/cfgs"><code>cfgs</code></a> 🍇 &nbsp; &nbsp; (🌟 2 &nbsp;👁 2)
 <br>
@@ -179,7 +179,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/recs/commit/a5b81af"><code>23/11/20</code></a>🟢<code>Update version to v0.2.0</code>
 <br>
-<a href="https://github.com/rec/recs/commit/61809fa"><code>23/12/28</code></a>🕰<code>Modify recs/ui/device_proxy.py, recs/ui/recorder.py</code></td>
+<a href="https://github.com/rec/recs/commit/e4dd1f9"><code>23/12/29</code></a>🕰<code>Inline DeviceProxy into Recorder</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔉 <a href="https://github.com/rec/vl8"><code>vl8</code></a> 🔉 &nbsp; &nbsp; (🌟 3 &nbsp;👁 2)
 <br>
