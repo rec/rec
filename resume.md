@@ -5,29 +5,30 @@
 - http://github.com/rec
 - Amsterdam, Netherlands
 
-Decades of experience; a plethora of projects taken from conception to
-completion and production, in areas including search and backend, big data,
-audio and DSP, fintech, distributed systems, real time systems and lighting
-control, and more; hundreds of thousands of lines of working, tested production
-code in two dozen programming languages; expert in Python, C++.
+Decades of experience; a plethora of projects taken from conception to completion,
+production, packaging and distribution; in areas including search and backend, big data,
+audio and DSP, fintech, distributed systems, real time systems and lighting control, and
+more; hundreds of thousands of lines of working, tested production code in two dozen
+programming languages; expert in Python, C++.
 
-I specialize in rapid development of highly reliable, performant, scalable,
-minimal, clear and maintainable solutions to difficult problems.
+I specialize in rapid development of highly reliable, performant, scalable, minimal,
+clear and maintainable solutions to difficult problems.  As a hobby, I build small
+open-source Python libraries that do one useful thing very well: http://github.com/rec
 
 "Everything should be made as simple as possible, but no simpler."
 
 ## Employment Highlights
 
-### <span>CTO, Engora</span> <span>April 2021 -- Jan 2023</span>
+### <span>CTO, Engora</span> <span>April 2021 -- Feb 2023</span>
 
-[Engora](https://search.engora.tech/) is an innovative search engine for mechanical
+[Engora](https://search.engora.tech/) was an innovative search engine for mechanical
 engineering parts.
 
 The founder created a good demo, and then raised money through crowdfunding and
 Reddit. I came in some months after that, first as a consultant and then as CTO.
 
 As the only full-time programmer I had my hands in everything, but here are the
-bits I wrote all of (Python, PostgreSQL):
+bits I wrote all of (Python, PostgreSQL, SqlAlchemy):
 
 * A _parts crawler_ over two dozen disparate websites totalling almost a million
 parts, carefully rate-limited, first directly, then proxied, finally using
@@ -44,9 +45,10 @@ directories and sharded files.
 retrieval, and [Whoosh](https://whoosh.readthedocs.io/en/latest/) for text
 searching.
 
-* A Flask _web server_ (using nginx/gunicorn in production).
+* A Flask _web server_ (using nginx/gunicorn in production) and a couple of Dockers
+  supporting all of these.
 
-* Configuration files and variables, monitoring variables, logging, user
+* Deployment, configuration files and variables, monitoring variables, logging, user
 interaction journaling, and other unsexy but satisfying details.
 
 * "Practically complete" test coverage of everything
@@ -93,7 +95,7 @@ tools, and little details like three second restart after shutdown.
 ### <span>Software engineer, Google </span> <span> (2004-2009) </span>
 
 I joined Google New York when it was a single floor overlooking Times Square,
-worked on Goo first question-answering system, the first Music Search, then
+worked on Google's first question-answering system, the first Music Search, then
 its short-lived Real Estate search.
 
 This led me to GoogleBase, a database of tens of billions of items planned for
@@ -126,7 +128,8 @@ download and memory size.
 
 ## Skills
 - Architecture and high-level design: clean, simple, practical, scale-appropriate designs
-- Python: FastAPI/Pydantic/Flask/SQLAlchemy/Django, numpy, Cython, real-time, packaging, more..
+- Python: FastAPI/Pydantic/Flask/SQLAlchemy/Django, numpy, Cython, real-time, packaging,
+  typing!, and more..
 - C/C++: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
 - Considerable Javascript, strong Linux,  Bash scripting
 - Data analysis and retrieval: clustering, search and indexing, data pipelines,
