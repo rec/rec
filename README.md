@@ -22,128 +22,128 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2023/12/30, 14:36:59 by https://github.com/rec/multi)
+(Last update 2024/01/05, 19:21:48 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A safer writer for files and streams</i>
 <br>
-<a href="https://github.com/rec/safer/commit/767580e"><code>23/12/29</code></a>🟢<code>Update version to v4.12.1</code>
+<a href="https://github.com/rec/safer/commit/99c6b8d"><code>24/01/04</code></a>🟢<code>Update version to v4.12.2</code>
 <br>
-<a href="https://github.com/rec/safer/commit/bfc472e"><code>23/12/29</code></a>🕰<code>Add more typing to safer</code></td>
+<a href="https://github.com/rec/safer/commit/e772b56"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗃 <a href="https://github.com/rec/tdir"><code>tdir</code></a> 🗃 &nbsp; &nbsp; (👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Create and fill a temporary directory</i>
 <br>
-<a href="https://github.com/rec/tdir/commit/556876c"><code>23/12/29</code></a>🟢<code>Update version to v1.8.0</code>
+<a href="https://github.com/rec/tdir/commit/cbd99e5"><code>24/01/04</code></a>🟢<code>Update version to v1.8.1</code>
 <br>
-<a href="https://github.com/rec/tdir/commit/c8afda3"><code>23/12/29</code></a>🕰<code>Add tdir/py.typed</code></td>
+<a href="https://github.com/rec/tdir/commit/6e96b19"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 4 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Named colors in Python</i>
 <br>
-<a href="https://github.com/rec/nc/commit/5db6e23"><code>23/03/08</code></a>🟢<code>Update to version v1.0.1</code>
+<a href="https://github.com/rec/nc/commit/2d058f3"><code>24/01/04</code></a>🟢<code>Update version to v1.0.2</code>
 <br>
-<a href="https://github.com/rec/nc/commit/ba360ff"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/nc/commit/d31b0c1"><code>24/01/05</code></a>🕰<code>Start to add typing</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 16 &nbsp;👁 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 17 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Fix and improve `typer`</i>
 <br>
-<a href="https://github.com/rec/dtyper/commit/8eceea9"><code>23/10/05</code></a>🟢<code>Update version to v2.4.0</code>
+<a href="https://github.com/rec/dtyper/commit/ec202bc"><code>24/01/05</code></a>🟢<code>Update version to v2.5.0</code>
 <br>
-<a href="https://github.com/rec/dtyper/commit/2ff7584"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/dtyper/commit/81df043"><code>24/01/05</code></a>🕰<code>Add .github/workflows/python-package.yml</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 <a href="https://github.com/rec/clsprop"><code>clsprop</code></a> 🏫
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Just like @property but for classes</i>
 <br>
-<a href="https://github.com/rec/clsprop/commit/430a6bc"><code>23/10/05</code></a>🟢<code>Update version to v1.2.0</code>
+<a href="https://github.com/rec/clsprop/commit/443ea6c"><code>24/01/05</code></a>🟢<code>Update version to v1.3.0</code>
 <br>
-<a href="https://github.com/rec/clsprop/commit/5867146"><code>23/10/05</code></a>🕰<code>Update minimum Python version to 3.8</code></td>
+<a href="https://github.com/rec/clsprop/commit/9120966"><code>24/01/05</code></a>🕰<code>Add .github/workflows/python-package.yml</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖋 <a href="https://github.com/rec/editor"><code>editor</code></a> 🖋 &nbsp; &nbsp; (🌟 9 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Open the default text editor</i>
 <br>
-<a href="https://github.com/rec/editor/commit/ae2808f"><code>23/12/29</code></a>🟢<code>Update version to v1.5.0</code>
+<a href="https://github.com/rec/editor/commit/24a19d9"><code>24/01/05</code></a>🟢<code>Update version to v1.6.3</code>
 <br>
-<a href="https://github.com/rec/editor/commit/63e4158"><code>23/12/29</code></a>🕰<code>Add editor/py.typed</code></td>
+<a href="https://github.com/rec/editor/commit/a830329"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧵 <a href="https://github.com/rec/threa"><code>threa</code></a> 🧵 &nbsp; &nbsp; (🌟 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Better threads</i>
 <br>
-<a href="https://github.com/rec/threa/commit/e1e33a3"><code>23/12/28</code></a>🟢<code>Update version to v1.8.1</code>
+<a href="https://github.com/rec/threa/commit/2f48763"><code>24/01/04</code></a>🟢<code>Update version to v1.9.1</code>
 <br>
-<a href="https://github.com/rec/threa/commit/dc65126"><code>23/12/28</code></a>🕰<code>Revert "Clarify the meaning of finish()"</code></td>
+<a href="https://github.com/rec/threa/commit/d8fc183"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛏ <a href="https://github.com/rec/sproc"><code>sproc</code></a> ⛏ &nbsp; &nbsp; (🌟 10 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Subprocesseses for subhumanses</i>
 <br>
-<a href="https://github.com/rec/sproc/commit/2dd4c69"><code>23/10/05</code></a>🟢<code>Update version to v2.3.0</code>
+<a href="https://github.com/rec/sproc/commit/229a84a"><code>24/01/05</code></a>🟢<code>Update version to v2.4.0</code>
 <br>
-<a href="https://github.com/rec/sproc/commit/41e1346"><code>23/10/18</code></a>🕰<code>Move .coveragerc into pyproject.toml</code></td>
+<a href="https://github.com/rec/sproc/commit/01df225"><code>24/01/05</code></a>🕰<code>Add .github/workflows/python-package.yml</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏺 <a href="https://github.com/rec/fil"><code>fil</code></a> 🏺 &nbsp; &nbsp; (🌟 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Read/write JSON/TOML/Yaml/txt</i>
 <br>
-<a href="https://github.com/rec/fil/commit/d5b074d"><code>23/12/30</code></a>🟢<code>Update version to v1.4.1</code>
+<a href="https://github.com/rec/fil/commit/bb74ffc"><code>24/01/04</code></a>🟢<code>Update version to v1.4.3</code>
 <br>
-<a href="https://github.com/rec/fil/commit/bb4c813"><code>23/12/30</code></a>🕰<code>Add coverage level to pyproject.toml</code></td>
+<a href="https://github.com/rec/fil/commit/50dbe0a"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 <a href="https://github.com/rec/xmod"><code>xmod</code></a> 🌱 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Turn any object into a module</i>
 <br>
-<a href="https://github.com/rec/xmod/commit/1e218e9"><code>23/12/29</code></a>🟢<code>Update version to v1.8.0</code>
+<a href="https://github.com/rec/xmod/commit/b2c8848"><code>24/01/04</code></a>🟢<code>Update version to v1.8.1</code>
 <br>
-<a href="https://github.com/rec/xmod/commit/706d1d4"><code>23/12/29</code></a>🕰<code>Add xmod/py.typed</code></td>
+<a href="https://github.com/rec/xmod/commit/a47f30d"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 <a href="https://github.com/rec/impall"><code>impall</code></a> 🛎 &nbsp; &nbsp; (🌟 7 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Test-import all modules</i>
 <br>
-<a href="https://github.com/rec/impall/commit/1ee6732"><code>23/12/12</code></a>🟢<code>Update version to v1.5.1</code>
+<a href="https://github.com/rec/impall/commit/dbcc844"><code>24/01/04</code></a>🟢<code>Update version to v1.5.2</code>
 <br>
-<a href="https://github.com/rec/impall/commit/b02861f"><code>23/12/12</code></a>🕰<code>Fix paths vs PATHS (fix #23)</code></td>
+<a href="https://github.com/rec/impall/commit/9fb0beb"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 29 &nbsp;👁 3)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 30 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny useful git commands, some dangerous</i>
 <br>
-<a href="https://github.com/rec/gitz/commit/9f34308"><code>23/12/27</code></a>🟢<code>Update version to v1.7.0</code>
+<a href="https://github.com/rec/gitz/commit/f0e3152"><code>24/01/04</code></a>🟢<code>Update version to v1.7.1</code>
 <br>
-<a href="https://github.com/rec/gitz/commit/1eb3d4d"><code>23/12/27</code></a>🕰<code>Replace `git-go travis` with `git-go top`</code></td>
+<a href="https://github.com/rec/gitz/commit/36a126c"><code>24/01/04</code></a>🕰<code>Add two fields to poetry.tool</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗂 <a href="https://github.com/rec/datacls"><code>datacls</code></a> 🗂 &nbsp; &nbsp; (🌟 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Take the edge off `dataclass`</i>
 <br>
-<a href="https://github.com/rec/datacls/commit/5a4d6e8"><code>23/10/05</code></a>🟢<code>Update version to v4.7.0</code>
+<a href="https://github.com/rec/datacls/commit/e03737f"><code>24/01/04</code></a>🟢<code>Update version to v4.7.1</code>
 <br>
-<a href="https://github.com/rec/datacls/commit/d763e99"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/datacls/commit/141082b"><code>24/01/05</code></a>🕰<code>Add .github/workflows/python-package.yml</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜 &nbsp; &nbsp; (🌟 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Expand abbreviations</i>
 <br>
-<a href="https://github.com/rec/abbrev/commit/513422d"><code>23/10/05</code></a>🟢<code>Update version to v1.2.0</code>
+<a href="https://github.com/rec/abbrev/commit/535fc8e"><code>24/01/04</code></a>🟢<code>Update version to v1.2.1</code>
 <br>
-<a href="https://github.com/rec/abbrev/commit/13750ae"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/abbrev/commit/028914a"><code>24/01/05</code></a>🕰<code>Add .github/workflows/python-package.yml</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎴 <a href="https://github.com/rec/dek"><code>dek</code></a> 🎴 &nbsp; &nbsp; (🌟 3 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The decorator-decorator</i>
 <br>
-<a href="https://github.com/rec/dek/commit/4e71105"><code>23/12/29</code></a>🟢<code>Update version to v1.4.0</code>
+<a href="https://github.com/rec/dek/commit/16a1069"><code>24/01/04</code></a>🟢<code>Update version to v1.4.1</code>
 <br>
-<a href="https://github.com/rec/dek/commit/0bd244a"><code>23/12/29</code></a>🕰<code>Add changes from black, isort, mypy, ruff</code></td>
+<a href="https://github.com/rec/dek/commit/bb55e45"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 </tr></tbody></table>
 <p>
 <h2>Beta</h2>
@@ -151,9 +151,9 @@ thoroughly as possible.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Read/write JSON/TOML/Yaml/txt</i>
 <br>
-<a href="https://github.com/rec/fil/commit/d5b074d"><code>23/12/30</code></a>🟢<code>Update version to v1.4.1</code>
+<a href="https://github.com/rec/fil/commit/bb74ffc"><code>24/01/04</code></a>🟢<code>Update version to v1.4.3</code>
 <br>
-<a href="https://github.com/rec/fil/commit/bb4c813"><code>23/12/30</code></a>🕰<code>Add coverage level to pyproject.toml</code></td>
+<a href="https://github.com/rec/fil/commit/50dbe0a"><code>24/01/05</code></a>🕰<code>Remove boilerplate from workflow</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔢 <a href="https://github.com/rec/plur"><code>plur</code></a> 🔢
 <br>
@@ -161,7 +161,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/plur/commit/62cccf3"><code>23/12/30</code></a>🟢<code>Update version to v1.0.0</code>
 <br>
-<a href="https://github.com/rec/plur/commit/afb9b4a"><code>23/12/30</code></a>🕰<code>Add typing and toolchain fixes</code></td>
+<a href="https://github.com/rec/plur/commit/1b2c4d7"><code>24/01/04</code></a>🕰<code>Remove test.sh</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍇 <a href="https://github.com/rec/cfgs"><code>cfgs</code></a> 🍇 &nbsp; &nbsp; (🌟 2 &nbsp;👁 2)
 <br>
@@ -179,7 +179,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/recs/commit/a5b81af"><code>23/11/20</code></a>🟢<code>Update version to v0.2.0</code>
 <br>
-<a href="https://github.com/rec/recs/commit/e4dd1f9"><code>23/12/29</code></a>🕰<code>Inline DeviceProxy into Recorder</code></td>
+<a href="https://github.com/rec/recs/commit/727d3b8"><code>24/01/03</code></a>🕰<code>Modify recs/cfg/aliases.py, recs/cfg/cfg.py</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔉 <a href="https://github.com/rec/vl8"><code>vl8</code></a> 🔉 &nbsp; &nbsp; (🌟 3 &nbsp;👁 2)
 <br>
@@ -245,7 +245,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/multi/commit/b48d9d1"><code>23/02/02</code></a>🟢<code>Update to version v0.1.0</code>
 <br>
-<a href="https://github.com/rec/multi/commit/f101ff3"><code>23/10/18</code></a>🕰<code>Move projects' .coveragerc into pyproject.toml</code></td>
+<a href="https://github.com/rec/multi/commit/4435262"><code>24/01/05</code></a>🕰<code>Add git.fix_package</code></td>
 </tr>
 <tr><td>⬜🟩🟦🟥 <a href="https://github.com/rec/blocks"><code>blocks</code></a> 🟥🟦🟩⬜ &nbsp; &nbsp; (👁 2)
 <br>
@@ -261,7 +261,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/test/commit/4441f82"><code>23/12/14</code></a>🕰<code>More experiments</code></td>
+<a href="https://github.com/rec/test/commit/667d8d6"><code>24/01/04</code></a>🕰<code>Several changes</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫ <a href="https://github.com/rec/dotfiles"><code>dotfiles</code></a> ⚫ &nbsp; &nbsp; (👁 2)
 <br>
@@ -269,7 +269,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/dotfiles/commit/fdb65b2"><code>23/10/18</code></a>🕰<code>Remove empty line in pyproject coverage section</code></td>
+<a href="https://github.com/rec/dotfiles/commit/2f5320a"><code>24/01/04</code></a>🕰<code>Modify bin/run-test</code></td>
 </tr></tbody></table>
 <p>
 <h2>Mothballed</h2>
@@ -295,5 +295,5 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/runs/commit/cc4f9a0"><code>23/12/29</code></a>🟢<code>Update version to v1.2.0</code>
 <br>
-<a href="https://github.com/rec/runs/commit/26fb856"><code>23/12/29</code></a>🕰<code>Add typing and toolchain fixes</code></td>
+<a href="https://github.com/rec/runs/commit/379845b"><code>24/01/04</code></a>🕰<code>Remove test.sh</code></td>
 </tr></tbody></table>
