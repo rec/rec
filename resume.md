@@ -5,21 +5,56 @@
 - http://github.com/rec
 - Amsterdam, Netherlands
 
-Decades of experience; a plethora of projects taken from conception to completion,
-production, packaging and distribution; in areas including search and backend, big data,
-audio and DSP, fintech, distributed systems, real time systems and lighting control, and
-more; hundreds of thousands of lines of working, tested production code in two dozen
-programming languages; expert in Python, C++.
+* Decades of experience
+* A plethora of projects taken from conception to completion, production, packaging and
+distribution
+* Expert in Python, C++, solid in Javascript and Java
+* Have delivered production code in almost a dozen more
+* Experience includes:
+  * search and backend
+  * fintech: option modeling, ledgers, position management
+  * big data
+  * audio and DSP
+  * distributed systems
+  * real-time lighting control
+  * and more
 
 I specialize in rapid development of highly reliable, performant, scalable, minimal,
-clear and maintainable solutions to difficult problems.  As a hobby, I build small
-open-source Python libraries that do one useful thing very well: http://github.com/rec
+clear and maintainable solutions to difficult problems.
 
-"Everything should be made as simple as possible, but no simpler."
+As a hobby, I build small open-source Python libraries that do one useful thing well:
+http://github.com/rec
+
+"Everything should be made as simple as possible, but no simpler" -various
 
 ## Employment Highlights
 
-### <span>CTO, Engora</span> <span>April 2021 -- Feb 2023</span>
+### <span>Lead Programmer, SuperDuperDB</span> <span>(May 2023 -- Sep 2023)</span>
+
+https://github.com/SuperDuperDB/superduperdb
+
+SuperDuperDB is not a database, but a Python system to integrate existing databases with
+AI tools like vector search and large language models.
+
+I was tasked with making the working Python codebase "professional" so it could be
+released to the public as a library.
+
+And this I did, by writing many `pytest` tests, adding practically complete typing,
+enforced with `mypy`, some refactoring and renaming and as much removing as possible.
+
+As I went, I also wrote reams of readable class, method and function documentation.
+
+I also got to write some design documents, really my favorite part.
+
+One was for structured logging, monitoring, and journaling, which had a small but
+useful API, and allowed repeatable computation with fairly marginal extra effort.
+I got it down to three pages, and had a demo of the API as a `pytest` unit test.
+
+The other design document was for a fully typed server with an automatically generated
+OpenAPI specification, instead of the existing ad hoc REST server, using FastAPI and
+Pydantic, and this too came with a tiny demo, one that could actually serve stuff.
+
+### <span>CTO, Engora</span> <span>(April 2021 -- Feb 2023)</span>
 
 [Engora](https://search.engora.tech/) was an innovative search engine for mechanical
 engineering parts.
@@ -27,19 +62,20 @@ engineering parts.
 The founder created a good demo, and then raised money through crowdfunding and
 Reddit. I came in some months after that, first as a consultant and then as CTO.
 
-As the only full-time programmer I had my hands in everything, but here are the
-bits I wrote all of (Python, PostgreSQL, SqlAlchemy):
+As the CTO I had my hands in everything, but here are the bits I wrote all of (Python,
+PostgreSQL, SqlAlchemy):
 
-* A _parts crawler_ over two dozen disparate websites totalling almost a million
-parts, carefully rate-limited, first directly, then proxied, finally using
-ScraperAPI's fancy new asynchronous proxy, with a _searchable HTTP cache_ in
-PostgreSQL.
+* A _parts crawler_ over two dozen disparate websites totalling almost a million parts,
+carefully rate-limited, first harvested directly, then proxied, finally using
+ScraperAPI's fancy new asynchronous proxy.
 
-* A _data store_ based on S3, replicated over multiple providers and with an
-incremental offsite "physical" backup stream; and on top of that, a _data
-resource management system_, for convenient replication of resources, and
-projects containing multiple, reproducible resources, including databases,
-directories and sharded files.
+* A PostgreSQL _parts database_ with key information from each parts page: I wrote a
+small database quickly, and then four months later, I rewrote it entirely.
+
+* A _data store_ based on S3, replicated over multiple providers and with an incremental
+offsite "physical" backup stream; and on top of that, a _data resource management
+system_, for convenient replication of resources, and projects containing multiple,
+reproducible resources, including PostgreSLQ databases, directories and sharded files.
 
 * A neat little proprietary _memory-mapped index_ for direct searching and
 retrieval, and [Whoosh](https://whoosh.readthedocs.io/en/latest/) for text
@@ -55,7 +91,8 @@ interaction journaling, and other unsexy but satisfying details.
 
 * And to run all of those, a tidy [`typer`](https://typer.tiangolo.com/) CLI
 named `engora`, with over two dozen commands and subcommands, hundreds of flags
-and "practically complete" documentation.
+and "practically complete" documentation,  used every day by almost everyone in the
+company.
 
 ### <span>Lead developer on BiblioPixel, Maniacal Labs</span> <span> (2016-2019)
 
@@ -127,14 +164,13 @@ Still one of my favorite "neat hacks" ever, I wrote a tool that converted
 download and memory size.
 
 ## Skills
-- Architecture and high-level design: clean, simple, practical, scale-appropriate designs
-- Python: FastAPI/Pydantic/Flask/SQLAlchemy/Django, numpy, Cython, real-time, packaging,
-  typing!, and more..
+- Architecture and high-level design: clean, simple, practical, scale-appropriate, 12-factor
+- Brutal, thorough testing and CI
+- Python: Flask/SQLAlchemy/Django/FastAPI/Pydantic, numpy, Cython, real-time, packaging,
+  typing!, and more...
 - C/C++: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
 - Considerable Javascript, strong Linux,  Bash scripting
-- Data analysis and retrieval: clustering, search and indexing, data pipelines,
-  S3, MapReduce, log analysis
-- Continuous integration; brutal, thorough testing
+- Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
 - PostgreSQL database design, use and some admin
 - Strong Git (I wrote this: https://github.com/rec/gitz)
 - Practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
@@ -146,3 +182,32 @@ download and memory size.
 
 ## Education
 I have a B.Sc. with First Class Honours in Mathematics from Carleton University, Canada.
+
+BASIC
+APL
+generic calculator language
+TI calculator language
+PL/I
+Pascal
+Forth
+FORTRAN
+SNOBOL
+GPSS
+Lisp
+Elisp
+C
+C++
+Bash
+Moo
+PHP
+Perl
+Sawzall
+Python
+
+Also, assemblers:
+
+fake (MIX?)
+PDP-11
+6809
+6502
+65816
