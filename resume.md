@@ -1,29 +1,27 @@
 # Tom Ritchford
 
-- <tom.ritchford@gmail.com>
-- +31 64 121 2749
 - http://github.com/rec
+- tom.ritchford@gmail.com
+- +31 64 121 2749
 - Amsterdam, Netherlands
-
-* Decades of experience
-* A plethora of projects taken from conception to completion, production, packaging and
-distribution
-* Expert in Python, C++, solid in Javascript and Java
-* Have delivered production code in almost a dozen more
-* Experience includes:
-  * search and backend
-  * fintech: option modeling, ledgers, position management
-  * big data
-  * audio and DSP
-  * distributed systems
-  * real-time lighting control
-  * and more
 
 I specialize in rapid development of highly reliable, performant, scalable, minimal,
 clear and maintainable solutions to difficult problems.
 
-As a hobby, I build small open-source Python libraries that do one useful thing well:
-http://github.com/rec
+Decades of experience! A plethora of projects taken from conception to completion, production, packaging and
+distribution.
+
+Expert in Python, C++, solid in Java, C and JS, conversant in many others.
+
+Skills
+  * backend
+  * search
+  * fintech: option modeling, ledgers, position management
+  * big data
+  * distributed systems
+  * audio and DSP
+  * real-time control
+  * and more
 
 "Everything should be made as simple as possible, but no simpler" -various
 
@@ -33,34 +31,29 @@ http://github.com/rec
 
 https://github.com/SuperDuperDB/superduperdb
 
-SuperDuperDB is not a database, but a Python system to integrate existing databases with
-AI tools like vector search and large language models.
+SuperDuperDB is not a database, but a Python system integrating existing databases with
+AI tools like vector search and LLMs.
 
-I was tasked with making the working Python codebase "professional" so it could be
-released to the public as a library.
+I was tasked with making the working Python codebase "professional" so to be released to
+the public as a library.
 
-And this I did, by writing many `pytest` tests, adding practically complete typing,
-enforced with `mypy`, some refactoring and renaming and as much removing as possible.
+And this I did, by writing many `pytest` tests, adding practically complete typing
+enforced with `mypy`, refactoring and renaming and removing cruft, and of course
+writing reams of readable class, method and function documentation.
 
-As I went, I also wrote reams of readable class, method and function documentation.
-
-I also got to write some design documents, really my favorite part.
-
-One was for structured logging, monitoring, and journaling, which had a small but
-useful API, and allowed repeatable computation with fairly marginal extra effort.
-I got it down to three pages, and had a demo of the API as a `pytest` unit test.
-
-The other design document was for a fully typed server with an automatically generated
-OpenAPI specification, instead of the existing ad hoc REST server, using FastAPI and
-Pydantic, and this too came with a tiny demo, one that could actually serve stuff.
+I also got to write some design documents, really my favorite part: for _structured
+logging, monitoring, and journaling_, which had a small but useful API, and allowed
+repeatable computation with fairly marginal extra effort; and a design for a _fully
+typed REST server_ (including a tiny demo!) with an automatically generated OpenAPI
+specification, instead of the existing ad hoc REST server, using FastAPI and Pydantic
 
 ### <span>CTO, Engora</span> <span>(April 2021 -- Feb 2023)</span>
 
 [Engora](https://search.engora.tech/) was an innovative search engine for mechanical
 engineering parts.
 
-The founder created a good demo, and then raised money through crowdfunding and
-Reddit. I came in some months after that, first as a consultant and then as CTO.
+The founder created a good demo, and then raised money through crowdfunding. I came in
+some months after as CTO.
 
 As the CTO I had my hands in everything, but here are the bits I wrote all of (Python,
 PostgreSQL, SqlAlchemy):
@@ -70,7 +63,8 @@ carefully rate-limited, first harvested directly, then proxied, finally using
 ScraperAPI's fancy new asynchronous proxy.
 
 * A PostgreSQL _parts database_ with key information from each parts page: I wrote a
-small database quickly, and then four months later, I rewrote it entirely.
+small database quickly, and then four months later, I rewrote it entirely when I knew
+what I was doing.
 
 * A _data store_ based on S3, replicated over multiple providers and with an incremental
 offsite "physical" backup stream; and on top of that, a _data resource management
@@ -109,7 +103,7 @@ Mostly Python, some Cython and C++. (I'd use
 [pybind11](https://pybind11.readthedocs.io/en/stable/) instead of Cython if I
 had to do it again.)
 
-### <span>Senior software engineer at Ripple </span> <span>(2014-2016) </span>
+### <span> Senior software engineer at Ripple </span> <span>(2014-2016) </span>
 
 Ripple is a financial technology firm with its own eponymous cryptocurrency. I
 worked on their flagship application `rippled`, the complex and complicated
@@ -117,10 +111,7 @@ C++17 crypto-ledger that implements their XRP cryptocurrency, on the ledger
 code, on deployment, debugging, devops, build and monitoring, mostly in C++ with
 some Python.
 
-While this was a challenging and very educational position, I am not willing to work in
-the cryptocurrency field at this time.
-
-### <span>CTO, World Wide Woodshed </span> <span>(2009-2014) </span>
+### <span> CTO, World Wide Woodshed </span> <span>(2009-2014) </span>
 
 I had always wanted to write a complete desktop audio application!
 
@@ -129,7 +120,7 @@ World Wide Woodshed's SlowGold was a leader in music practice software from the
 brand-new product in C++, with high-quality audio, subtle and intuitive editing
 tools, and little details like three second restart after shutdown.
 
-### <span>Software engineer, Google </span> <span> (2004-2009) </span>
+### <span> Software engineer, Google </span> <span> (2004-2009) </span>
 
 I joined Google New York when it was a single floor overlooking Times Square,
 worked on Google's first question-answering system, the first Music Search, then
@@ -152,16 +143,15 @@ I used C++, Java and Python, and the usual string of Google technologies.
 ### <span> Senior software developer, Netomat </span> <span> (2001-2004) </span>
 
 Netomat had an innovative rich media tool to let users and advertisers create
-and send Netomat "experiences" – little Java applet (it seemed more reasonable
+and send Netomat "experiences" – little Java applets (it seemed more reasonable
 at the time) minisites with animation, sound and internal navigation - to users
 who could edit them within the email itself.
 
 I designed and wrote the animation engine and front-end, most of the animation
 types and the manual.
 
-Still one of my favorite "neat hacks" ever, I wrote a tool that converted
-"experiences" (animations) right into Java bytecode, for a 40-80% savings in
-download and memory size.
+Still one of my favorite "neat hacks" ever, I wrote a tool that converted "experiences"
+right into Java bytecode, for a 40-80% savings in download and memory size.
 
 ## Skills
 - Architecture and high-level design: clean, simple, practical, scale-appropriate, 12-factor
@@ -169,6 +159,7 @@ download and memory size.
 - Python: Flask/SQLAlchemy/Django/FastAPI/Pydantic, numpy, Cython, real-time, packaging,
   typing!, and more...
 - C/C++: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- Java: distributed systems, i18n/l10n
 - Considerable Javascript, strong Linux,  Bash scripting
 - Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
 - PostgreSQL database design, use and some admin
@@ -182,32 +173,3 @@ download and memory size.
 
 ## Education
 I have a B.Sc. with First Class Honours in Mathematics from Carleton University, Canada.
-
-BASIC
-APL
-generic calculator language
-TI calculator language
-PL/I
-Pascal
-Forth
-FORTRAN
-SNOBOL
-GPSS
-Lisp
-Elisp
-C
-C++
-Bash
-Moo
-PHP
-Perl
-Sawzall
-Python
-
-Also, assemblers:
-
-fake (MIX?)
-PDP-11
-6809
-6502
-65816
