@@ -11,9 +11,8 @@ clear and maintainable solutions to difficult problems.
 Decades of experience! A plethora of projects taken from conception to completion, production, packaging and
 distribution.
 
-Expert in Python, C++, solid in Java, C and JS, conversant in many others.
+Expert in Python and C++, solid in Java, C and JS, conversant in many others.
 
-Skills
   * backend
   * search
   * fintech: option modeling, ledgers, position management
@@ -35,17 +34,14 @@ SuperDuperDB is not a database, but a Python system integrating existing databas
 AI tools like vector search and LLMs.
 
 I was tasked with making the working Python codebase "professional" so to be released to
-the public as a library.
+the public as a library, and this I did, by writing many `pytest` tests, adding
+practically complete typing enforced with `mypy`, refactoring and renaming and removing
+cruft, and of course writing reams of readable class, method and function documentation.
 
-And this I did, by writing many `pytest` tests, adding practically complete typing
-enforced with `mypy`, refactoring and renaming and removing cruft, and of course
-writing reams of readable class, method and function documentation.
-
-I also got to write some design documents, really my favorite part: for _structured
-logging, monitoring, and journaling_, which had a small but useful API, and allowed
-repeatable computation with fairly marginal extra effort; and a design for a _fully
-typed REST server_ (including a tiny demo!) with an automatically generated OpenAPI
-specification, instead of the existing ad hoc REST server, using FastAPI and Pydantic
+I wrote design documents, really my favorite part: for _structured logging, monitoring,
+and journaling_ (a small but very useful API which allowed repeatable computation with
+fairly marginal extra effort); and for a _fully typed REST server_ (including a tiny
+demo!) with an automatically generated OpenAPI specification.
 
 ### <span>CTO, Engora</span> <span>(April 2021 -- Feb 2023)</span>
 
@@ -53,23 +49,20 @@ specification, instead of the existing ad hoc REST server, using FastAPI and Pyd
 engineering parts.
 
 The founder created a good demo, and then raised money through crowdfunding. I came in
-some months after as CTO.
+some months after as CTO: I had my hands in everything, but here are the bits I wrote
+all of (Python, PostgreSQL, SqlAlchemy):
 
-As the CTO I had my hands in everything, but here are the bits I wrote all of (Python,
-PostgreSQL, SqlAlchemy):
-
-* A _parts crawler_ over two dozen disparate websites totalling almost a million parts,
-carefully rate-limited, first harvested directly, then proxied, finally using
-ScraperAPI's fancy new asynchronous proxy.
+* A _parts crawler_ over two dozen disparate sites and a million parts, carefully
+rate-limited, harvested directly, then proxied, finally using ScraperAPI's fancy new
+asynchronous proxy.
 
 * A PostgreSQL _parts database_ with key information from each parts page: I wrote a
-small database quickly, and then four months later, I rewrote it entirely when I knew
-what I was doing.
+small database quickly, then rewrote it entirely four months later.
 
-* A _data store_ based on S3, replicated over multiple providers and with an incremental
-offsite "physical" backup stream; and on top of that, a _data resource management
-system_, for convenient replication of resources, and projects containing multiple,
-reproducible resources, including PostgreSLQ databases, directories and sharded files.
+* A _data store_ based on S3, using multiple providers, with an incremental offsite
+"physical" backup stream; and on top of that, a _data resource management system_, for
+convenient replication of projects containing multiple, reproducible resources,
+including PostgreSLQ databases, directories and sharded files.
 
 * A neat little proprietary _memory-mapped index_ for direct searching and
 retrieval, and [Whoosh](https://whoosh.readthedocs.io/en/latest/) for text
@@ -81,7 +74,7 @@ searching.
 * Deployment, configuration files and variables, monitoring variables, logging, user
 interaction journaling, and other unsexy but satisfying details.
 
-* "Practically complete" test coverage of everything
+* Practically complete test coverage of almost everything
 
 * And to run all of those, a tidy [`typer`](https://typer.tiangolo.com/) CLI
 named `engora`, with over two dozen commands and subcommands, hundreds of flags
@@ -90,12 +83,11 @@ company.
 
 ### <span>Lead developer on BiblioPixel, Maniacal Labs</span> <span> (2016-2019)
 
-Maniacal Lab's BiblioPixel was a popular lighting control program written in
-Python that controlled LEDs in strips, matrices, cubes and other layouts, as
-well as other lighting systems such as the Philips Hue and DMX.
+Maniacal Lab's BiblioPixel was a popular lighting control program written in Python that
+controlled LEDs and smart bulbs in strips, matrices, cubes and other layouts.
 
-I rewrote it from the ground up, with a REST server for pixel and higher-level
-control, both code and data plug-ins, animators including video feedback with an
+I rewrote it from the ground up, adding a REST server for pixel and higher-level
+control, code and data plug-ins, many animators including video feedback with an
 IIR filter, and a new data model using `numpy` arrays, leading to very roughly a
 30x speedup with perfect backwards compatibility.
 
@@ -120,16 +112,20 @@ World Wide Woodshed's SlowGold was a leader in music practice software from the
 brand-new product in C++, with high-quality audio, subtle and intuitive editing
 tools, and little details like three second restart after shutdown.
 
+We had many dedicated customers, but not enough to justify keeping in business,
+so we shut down, and [open sourced the software](https://github.com/rec/slow_gold)
+in 2016.
+
 ### <span> Software engineer, Google </span> <span> (2004-2009) </span>
 
-I joined Google New York when it was a single floor overlooking Times Square,
-worked on Google's first question-answering system, the first Music Search, then
-its short-lived Real Estate search.
+I joined Google New York when it was a single floor overlooking Times Square, worked on
+Google's first question-answering system, then their first Music Search, then its
+short-lived Real Estate search, all in C++.
 
-This led me to GoogleBase, a database of tens of billions of items planned for
-millions of users. Leading a tiny and changing team, over two years we built a
-universal reporting and computation framework I had proposed and designed. It
-was still in common use years later.
+This led me to GoogleBase, a database of tens of billions of items planned for millions
+of users. Leading a tiny and changing team, over two years we built a universal
+reporting and computation framework in Python that I had proposed and designed: it was
+still in common use years later.
 
 As a reward for this slog, I was privileged to work on GWS, the front end program,
 written in C++ that generated all Google results pages, for i18n, l10n and translations,
@@ -158,7 +154,7 @@ right into Java bytecode, for a 40-80% savings in download and memory size.
 - Brutal, thorough testing and CI
 - Python: Flask/SQLAlchemy/Django/FastAPI/Pydantic, numpy, Cython, real-time, packaging,
   typing!, and more...
-- C/C++: modern C++11-20, STL, DSP, concurrency, Juce, Boost, real-time, digital audio
+- C/C++: modern C++11-23, STL/template programming, Boost, concurrency, DSP, Juce, real-time
 - Java: distributed systems, i18n/l10n
 - Considerable Javascript, strong Linux,  Bash scripting
 - Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
@@ -170,6 +166,7 @@ right into Java bytecode, for a 40-80% savings in download and memory size.
 - Fintech: ledger systems, option models
 - Real-time systems: digital audio and DSP, lighting control systems, MIDI
 - Tool building: see my tools dashboard at https://github.com/rec
+- .en:N .fr:C1 .nl:B2 .de:B1 .id:A2 .es:A2
 
 ## Education
 I have a B.Sc. with First Class Honours in Mathematics from Carleton University, Canada.
