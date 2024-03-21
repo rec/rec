@@ -20,16 +20,16 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2024/02/16, 13:04:08 by https://github.com/rec/multi)
+(Last update 2024/10/09, 22:09:10 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 174 &nbsp;👁 4)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A safer writer for files and streams</i>
 <br>
-<a href="https://github.com/rec/safer/commit/a3ab40f"><code>24/01/15</code></a>🟢<code>Update version to v4.12.3</code>
+<a href="https://github.com/rec/safer/commit/80ff30d"><code>24/09/16</code></a>🟢<code>Update version to v5.0.0</code>
 <br>
-<a href="https://github.com/rec/safer/commit/3f22826"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
+<a href="https://github.com/rec/safer/commit/2007c7c"><code>24/09/16</code></a>🕰<code>Reduce use of tempfile (fix #25)</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗃 <a href="https://github.com/rec/tdir"><code>tdir</code></a> 🗃 &nbsp; &nbsp; (🌟 2 &nbsp;👁 3)
 <br>
@@ -37,7 +37,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/tdir/commit/a934f41"><code>24/01/25</code></a>🟢<code>Update version to v1.8.2</code>
 <br>
-<a href="https://github.com/rec/tdir/commit/f6702ad"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
+<a href="https://github.com/rec/tdir/commit/f79c474"><code>24/03/20</code></a>🕰<code>Bump black from 24.2.0 to 24.3.0</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 4 &nbsp;👁 4)
 <br>
@@ -47,7 +47,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/nc/commit/ad01eed"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 17 &nbsp;👁 3)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 18 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Fix and improve `typer`</i>
 <br>
@@ -63,13 +63,13 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/clsprop/commit/0194f08"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖋 <a href="https://github.com/rec/editor"><code>editor</code></a> 🖋 &nbsp; &nbsp; (🌟 9 &nbsp;👁 3)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖋 <a href="https://github.com/rec/editor"><code>editor</code></a> 🖋 &nbsp; &nbsp; (🌟 8 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Open the default text editor</i>
 <br>
 <a href="https://github.com/rec/editor/commit/6438a26"><code>24/01/25</code></a>🟢<code>Update version to v1.6.6</code>
 <br>
-<a href="https://github.com/rec/editor/commit/6ac42e5"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
+<a href="https://github.com/rec/editor/commit/7b59cfe"><code>24/03/20</code></a>🕰<code>Bump black from 24.2.0 to 24.3.0</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧵 <a href="https://github.com/rec/threa"><code>threa</code></a> 🧵 &nbsp; &nbsp; (🌟 2 &nbsp;👁 2)
 <br>
@@ -101,7 +101,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/xmod/commit/b2c8848"><code>24/01/04</code></a>🟢<code>Update version to v1.8.1</code>
 <br>
-<a href="https://github.com/rec/xmod/commit/93b79ec"><code>24/02/14</code></a>🕰<code>Handle Python version behavior change in tests</code></td>
+<a href="https://github.com/rec/xmod/commit/50c8b29"><code>24/03/20</code></a>🕰<code>Bump black from 24.2.0 to 24.3.0</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 <a href="https://github.com/rec/impall"><code>impall</code></a> 🛎 &nbsp; &nbsp; (🌟 7 &nbsp;👁 3)
 <br>
@@ -109,15 +109,15 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/impall/commit/5a44e3f"><code>24/01/25</code></a>🟢<code>Update version to v1.5.3</code>
 <br>
-<a href="https://github.com/rec/impall/commit/8da857a"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
+<a href="https://github.com/rec/impall/commit/7047a2c"><code>24/03/20</code></a>🕰<code>Bump black from 24.2.0 to 24.3.0</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 30 &nbsp;👁 4)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗜 <a href="https://github.com/rec/gitz"><code>gitz</code></a> 🗜 &nbsp; &nbsp; (🌟 31 &nbsp;👁 4)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Tiny useful git commands, some dangerous</i>
 <br>
 <a href="https://github.com/rec/gitz/commit/f0e3152"><code>24/01/04</code></a>🟢<code>Update version to v1.7.1</code>
 <br>
-<a href="https://github.com/rec/gitz/commit/3f28ce9"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
+<a href="https://github.com/rec/gitz/commit/5c91940"><code>24/03/20</code></a>🕰<code>Bump black from 22.12.0 to 24.3.0</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗂 <a href="https://github.com/rec/datacls"><code>datacls</code></a> 🗂 &nbsp; &nbsp; (🌟 2 &nbsp;👁 2)
 <br>
@@ -141,7 +141,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/dek/commit/c1d6a81"><code>24/01/25</code></a>🟢<code>Update version to v1.4.2</code>
 <br>
-<a href="https://github.com/rec/dek/commit/1b7ebf6"><code>24/02/14</code></a>🕰<code>Update dependencies</code></td>
+<a href="https://github.com/rec/dek/commit/acd41ac"><code>24/03/20</code></a>🕰<code>Bump black from 24.2.0 to 24.3.0</code></td>
 </tr></tbody></table>
 <p>
 <h2>Beta</h2>
@@ -171,13 +171,13 @@ thoroughly as possible.
 </tr></tbody></table>
 <p>
 <h2>Experimental</h2>
-<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (👁 3)
+<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (🌟 2 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>recs: the Universal Recorder</i>
 <br>
 <a href="https://github.com/rec/recs/commit/b18966d"><code>24/01/07</code></a>🟢<code>Update version to v0.3.1</code>
 <br>
-<a href="https://github.com/rec/recs/commit/ae8d7fd"><code>24/02/14</code></a>🕰<code>Modify recs/ui/source_recorder.py</code></td>
+<a href="https://github.com/rec/recs/commit/6d06f43"><code>24/03/23</code></a>🕰<code>Get rid of on_terminate</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔉 <a href="https://github.com/rec/vl8"><code>vl8</code></a> 🔉 &nbsp; &nbsp; (🌟 3 &nbsp;👁 3)
 <br>
@@ -209,7 +209,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/def_main/commit/60f28a9"><code>23/02/02</code></a>🟢<code>Update to version v0.11.1</code>
 <br>
-<a href="https://github.com/rec/def_main/commit/e9954ca"><code>24/01/25</code></a>🕰<code>Run mypy in strict mode</code></td>
+<a href="https://github.com/rec/def_main/commit/4190934"><code>24/07/02</code></a>🕰<code>Return error codes correctly (see #1)</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓 <a href="https://github.com/rec/hardback"><code>hardback</code></a> 📓 &nbsp; &nbsp; (👁 3)
 <br>
@@ -259,7 +259,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/test/commit/ca66053"><code>24/01/30</code></a>🕰<code>Add data/register-spook.txt</code></td>
+<a href="https://github.com/rec/test/commit/45b5208"><code>24/10/06</code></a>🕰<code>Add more test cases</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫ <a href="https://github.com/rec/dotfiles"><code>dotfiles</code></a> ⚫ &nbsp; &nbsp; (👁 3)
 <br>
@@ -267,7 +267,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/dotfiles/commit/a7fc014"><code>24/01/23</code></a>🕰<code>Modify bash/environment-variables.sh, bin/run-test, bin/run-tests</code></td>
+<a href="https://github.com/rec/dotfiles/commit/d31713d"><code>24/07/19</code></a>🕰<code>Several changes</code></td>
 </tr></tbody></table>
 <p>
 <h2>Mothballed</h2>
