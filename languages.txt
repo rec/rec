@@ -1,0 +1,28 @@
+BASIC
+APL
+generic calculator language
+TI calculator language
+PL/I
+Pascal
+Forth
+FORTRAN
+SNOBOL
+GPSS
+Lisp
+Elisp
+C
+C++
+Bash
+Moo
+PHP
+Perl
+Sawzall
+Python
+
+Also, assemblers:
+
+fake (MIX?)
+PDP-11
+6809
+6502
+65816
