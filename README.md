@@ -12,6 +12,8 @@ This is a dashboard of my active Python open-source projects on Github, mostly
 small- to medium-sized libraries that try to do one useful thing as clearly and
 thoroughly as possible.
 
+(No AI was used in the writing or maintenance of any of these libraries.)
+
 🌟 means "Stars" <br>
 👁 means "Subscribers"
 
