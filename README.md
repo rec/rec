@@ -6,6 +6,14 @@ Resumé: [.pdf](resume.pdf) [.md](resume.md)
 
 ![My GitHub stats](https://github-stats.vercel.app/api?username=rec&show_icons=true)
 
+## I am retired! (unless...)
+
+We moved to Normandy. My job suddenly vanished. AI bores me. I took early retirement! Life is good.
+
+So I'm spending my time on music and digital audio programm. I'm still open to work in digital audio,
+MIDI, music, lighting control or other things I find personally entertaining.
+
+
 ## My Python open source projects
 
 This is a dashboard of my active Python open-source projects on Github, mostly

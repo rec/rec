@@ -1,9 +1,9 @@
-# monoKey: A universal model for wind instrument and keyed brass fingerings
+# fing: A universal representation of fingering systems for winds, reeds, and brass
 
 ## Abstract
 
-This paper introduces monoKey, a universal representation of fingerings for monophonic
-keyed instruments like wind instruments and keyed brass.
+This paper introduces `fing`, a universal representation of fingering systemss for monophonic
+keyed instruments, including but not limited to winds, reeds, and keyed brass.
 
 ## Definitions
 
@@ -15,9 +15,9 @@ instrument.
 
 A **fingering** is a set of keys being pressed at the same time.
 
-A **note-fingering** is a note and a fingering that can play it. ("Note" and "scale" are
-used informally and generally here, see the `tuney` project for a full specification of
-tunings and scales.)
+A **note-fingering** is a note with a fingering that can play it. (**Note** and
+**scale** are used informally and generally here: see the `tuney` project for a full
+specification of tunings and scales.)
 
 A **fingering system** is a set of note-fingerings. In one sytem, one note can
 correspond to many fingerings, and one fingering can correspond to multiple notes (a
@@ -39,10 +39,10 @@ small number of fingerings in brass.
 But most wind instruments fingerings have a linearity to them, taking advantage of the
 natural smoothness and speed of raising or lowering successive fingers in sequence.
 
-Divide keys into **main** and **modifier** keys.
+Keys naturally divide into **main keys** (finger keys) and **modifier keys** (palm and octave keys).
 
-Each main key has its own unique human finger that presses it, so there are typically 6 to
-9 main keys.
+Each main key has its own unique human finger that presses it. There seem to be 6 to 10
+main keys in existing wind instruments.
 
 
 
