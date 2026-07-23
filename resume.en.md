@@ -2,35 +2,66 @@
 
 - http://github.com/rec
 - tom.ritchford@gmail.com
-- +31 64 121 2749
-- Amsterdam, Netherlands
+- +33 07 56 40 90 29
+- Rouen, France
 
-I specialize in rapid development of highly reliable, performant, scalable, minimal,
+Rapid development of highly reliable, performant, scalable, minimal,
 clear and maintainable solutions to difficult problems.
 
-Decades of experience! A plethora of projects taken from conception to completion, production, packaging and
-distribution.
+Decades of experience! A plethora of projects taken from conception to completion,
+production, packaging and distribution.
 
-Expert in Python and C++, solid in Java, C and JS, conversant in many others.
+Expert in Python and C++, conversant in many others.
 
+Productive but careful LLM wrangler and AI assisted coder.
+
+  * audio and DSP
+  * real-time control
   * backend
   * search
   * fintech: option modeling, ledgers, position management
   * big data
   * distributed systems
-  * audio and DSP
-  * real-time control
   * and more
 
 "Everything should be made as simple as possible, but no simpler" -various
 
-## Employment Highlights
+## Selected Experience
+
+### <span>Sole Developer, `recs`</span> <span>(April 2026 -- Present)</span>
+
+Several years ago, I started writing `recs`, a highly-reliable, automatic, set-and-forget
+audio recording program written in Python, for digital mixers in concert halls, studios,
+bars and clubs, and for professional or amateur audio archivists, even just for
+capturing old mix tapes.
+
+I've been using it for a couple of years for my own needs but my recent embrace of
+LLM-assisted coding has meant an explosion of quality and utility. A public release is
+anticipated for September 2026
+
+
+### <span>Senior Software Engineer, Quansight/OpenTeams</span> <span>(May 2024 -- December 2025)</span>
+
+Quansight and OpenTeams are sister consulting companies in America that only work on
+open source software.  I was hired by Quansight for Python and C++ as part of their
+long-running contract with Meta to maintain the vital PyTorch project.
+
+I added operator decompositions, type annotations, their first type-checker time unit
+tests (that later became a battery of such tests) and a lot of testing, quality and
+janitor work: particularly fun a set of CI tasks to improve quality that acted as a
+gradual ratchet in one direction, parsing Python files to detect missing documentation
+or usage of discouraged types.
+
+OpenTeams decided to raise funds to go public, and I got transferred to them in May
+of 2025.  The fundraising did not go well, Meta did not renew some contracts, and this
+job ended.
+
 
 ### <span>Lead Programmer, SuperDuperDB</span> <span>(May 2023 -- Sep 2023)</span>
 
 https://github.com/SuperDuperDB/superduperdb
 
-SuperDuperDB is not a database, but a Python system integrating existing databases with
+SuperDuperDB was not a database, but a Python system integrating existing databases with
 AI tools like vector search and LLMs.
 
 I was tasked with making the working Python codebase "professional" so to be released to
@@ -80,20 +111,6 @@ interaction journaling, and other unsexy but satisfying details.
 named `engora`, with over two dozen commands and subcommands, hundreds of flags
 and "practically complete" documentation,  used every day by almost everyone in the
 company.
-
-### <span>Lead developer on BiblioPixel, Maniacal Labs</span> <span> (2016-2019)
-
-Maniacal Lab's BiblioPixel was a popular lighting control program written in Python that
-controlled LEDs and smart bulbs in strips, matrices, cubes and other layouts.
-
-I rewrote it from the ground up, adding a REST server for pixel and higher-level
-control, code and data plug-ins, many animators including video feedback with an
-IIR filter, and a new data model using `numpy` arrays, leading to very roughly a
-30x speedup with perfect backwards compatibility.
-
-Mostly Python, some Cython and C++. (I'd use
-[pybind11](https://pybind11.readthedocs.io/en/stable/) instead of Cython if I
-had to do it again.)
 
 ### <span> Senior software engineer at Ripple </span> <span>(2014-2016) </span>
 
@@ -150,21 +167,21 @@ Still one of my favorite "neat hacks" ever, I wrote a tool that converted "exper
 right into Java bytecode, for a 40-80% savings in download and memory size.
 
 ## Skills
+- Fully LLM enhanced. Careful and systematic prompter. I reinvest a portion of the time I save into
+  careful cleaning, clarification and refactoring of the generated code.
 - Architecture and high-level design: clean, simple, practical, scale-appropriate, 12-factor
 - Brutal, thorough testing and CI
 - Python: Flask/SQLAlchemy/Django/FastAPI/Pydantic, numpy, Cython, real-time, packaging,
   typing!, and more...
 - C/C++: modern C++11-23, STL/template programming, Boost, concurrency, DSP, Juce, real-time
-- Java: distributed systems, i18n/l10n
 - Considerable Javascript, strong Linux,  Bash scripting
+- Real-time systems: digital audio and DSP, lighting control systems, MIDI
 - Data analysis and retrieval: clustering, search and indexing, data pipelines, S3, MapReduce, log analysis
 - PostgreSQL database design, use and some admin
 - Strong Git (I wrote this: https://github.com/rec/gitz)
-- Practical DevOps: sysadmin "classic", deployment/release/integration, monitoring and logging
 - Globalization: Internationalization, localization, translation, Unicode and encodings
 - Performance optimization
 - Fintech: ledger systems, option models
-- Real-time systems: digital audio and DSP, lighting control systems, MIDI
 - Tool building: see my tools dashboard at https://github.com/rec
 - .en:N .fr:C1 .nl:B2 .de:B1 .id:A2 .es:A2
 
