@@ -175,12 +175,7 @@ l’échelle, respectant les 12 facteurs.
 - Maîtrise de Javascript, solide connaissance de Linux et du scripting Bash
 - Systèmes temps réel : audio numérique et traitement numérique du signal (DSP),
   systèmes de contrôle d’éclairage, MIDI
-- Analyse et extraction de données : clustering, recherche et indexation, pipelines de
-données, S3, MapReduce, analyse des journaux Conception, utilisation et administration
-de bases de données PostgreSQL
-- Strong Git (J'ai écrit ceci : https://github.com/rec/gitz)
 - Globalisation : Internationalisation, localisation, traduction, Unicode et encodages
-- Optimisation des performances
 - Fintech : systèmes de registres, modèles d’options
 - Développement d'outils : consultez mon tableau de bord d'outils sur https://github.com/rec
 - .en:N .fr:C1 .nl:B2 .de:B1 .id:A2 .es:A2
