@@ -30,10 +30,10 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2026/07/23, 16:26:46 by https://github.com/rec/multi)
+(Last update 2026/09/02, 12:13:34 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
-<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 193 &nbsp;👁 2)
+<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 194 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A safer writer for files and streams</i>
 <br>
@@ -49,7 +49,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/tdir/commit/6dde55b"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖋 <a href="https://github.com/rec/editor"><code>editor</code></a> 🖋 &nbsp; &nbsp; (🌟 10)
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖋 <a href="https://github.com/rec/editor"><code>editor</code></a> 🖋 &nbsp; &nbsp; (🌟 11)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Open the default text editor</i>
 <br>
@@ -145,7 +145,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/datacls/commit/a60e876"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜 &nbsp; &nbsp; (🌟 4)
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜 &nbsp; &nbsp; (🌟 5)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Expand abbreviations</i>
 <br>
@@ -171,13 +171,13 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/fmix/commit/820e212"><code>26/06/06</code></a>🕰<code>Extract code from __main__ into fmix/read_tyro.py</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 <a href="https://github.com/rec/tuney"><code>tuney</code></a> 🎶 &nbsp; &nbsp; (👁 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 <a href="https://github.com/rec/tuney"><code>tuney</code></a> 🎶 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Turn text into music (#noAI)</i>
 <br>
 <a href="https://github.com/rec/tuney/commit/1746b8c"><code>26/05/09</code></a>🟢<code>Update version to v0.3.0</code>
 <br>
-<a href="https://github.com/rec/tuney/commit/4650a50"><code>26/07/23</code></a>🕰<code>Bound audio shutdown wait (fix #150)</code></td>
+<a href="https://github.com/rec/tuney/commit/1c0ba55"><code>26/08/18</code></a>🕰<code>Name Tuney log startup</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥞 <a href="https://github.com/rec/pullman"><code>pullman</code></a> 🥞
 <br>
@@ -237,13 +237,13 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/nmr/commit/44fc70f"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (🌟 3 &nbsp;👁 2)
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (🌟 5 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The Universal Recorder</i>
 <br>
 <a href="https://github.com/rec/recs/commit/896fe28"><code>26/05/09</code></a>🟢<code>Update version to v0.12.0</code>
 <br>
-<a href="https://github.com/rec/recs/commit/3da29f4"><code>26/07/23</code></a>🕰<code>Reject root daemon execution</code></td>
+<a href="https://github.com/rec/recs/commit/7d966dc"><code>26/09/01</code></a>🕰<code>Revise editing-tools.md for output sessions</code></td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔉 <a href="https://github.com/rec/vl8"><code>vl8</code></a> 🔉 &nbsp; &nbsp; (🌟 4)
 <br>
@@ -343,7 +343,7 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/test/commit/63af845"><code>26/06/24</code></a>🕰<code>Modify pyproject.toml</code></td>
+<a href="https://github.com/rec/test/commit/b364212"><code>26/08/22</code></a>🕰<code>Modify python/jsonl.py</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫ <a href="https://github.com/rec/dotfiles"><code>dotfiles</code></a> ⚫
 <br>
@@ -351,5 +351,5 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/dotfiles/commit/ba705fd"><code>26/07/21</code></a>🕰<code>Modify elisp/hooks.el</code></td>
+<a href="https://github.com/rec/dotfiles/commit/d5075f6"><code>26/08/15</code></a>🕰<code>Modify git-commit-ids/git-commit-ids.txt</code></td>
 </tr></tbody></table>
