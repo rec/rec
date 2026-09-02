@@ -8,10 +8,10 @@ Resumé: [.pdf](resume.pdf) [.md](resume.md)
 
 ## I am retired! (unless...)
 
-We moved to Normandy. My job suddenly vanished. AI bores me. I took early retirement! Life is good.
+We moved to Normandy. My job suddenly vanished. I took early retirement! Life is good.
 
-So I'm spending my time on music and digital audio programm. I'm still open to work in digital audio,
-MIDI, music, lighting control or other things I find personally entertaining.
+So I'm spending my time on music and digital audio programming. I'm still open to work in digital audio,
+MIDI, music, lighting control or other things close to my heart.
 
 
 ## My Python open source projects
