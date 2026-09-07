@@ -1,9 +1,16 @@
 # Tiny research project: electronic calendars
 
+## Why bother?
+
+Group calendars that people could subscribe to, see within their own calendars, or get
+notifications from, would help bring people in the door, and be convenient for
+organizers.
+
 ## Goals
 
 * Subscribe to calendar events on Apple or Android phones
 * Multiple organizers and calendars
+* Public and private calendars
 * Cheap
 * Simple
 * Ethical provider
