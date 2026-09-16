@@ -28,7 +28,7 @@ thoroughly as possible.
 
 <!--- Automatically generated content below -->
 
-(Last update 2026/09/02, 12:13:34 by https://github.com/rec/multi)
+(Last update 2026/09/16, 20:40:56 by https://github.com/rec/multi)
 
 <h2>Production-ready</h2>
 <table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧿 <a href="https://github.com/rec/safer"><code>safer</code></a> 🧿 &nbsp; &nbsp; (🌟 194 &nbsp;👁 2)
@@ -71,77 +71,77 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/gitz/commit/07c0b8e"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 4)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➰ <a href="https://github.com/rec/rubband"><code>rubband</code></a> ➰
+<br>
+<i>Python bindings for Rubber Band audio pitch shifting and time stretching</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/rubband/commit/1a5a1ee"><code>26/09/16</code></a>🕰<code>Add an icon</code></td>
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 <a href="https://github.com/rec/nc"><code>nc</code></a> 🎨 &nbsp; &nbsp; (🌟 4)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Named colors in Python</i>
 <br>
 <a href="https://github.com/rec/nc/commit/e449226"><code>26/05/09</code></a>🟢<code>Update version to v1.2.0</code>
 <br>
 <a href="https://github.com/rec/nc/commit/9013760"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 21 &nbsp;👁 3)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗝 <a href="https://github.com/rec/dtyper"><code>dtyper</code></a> 🗝 &nbsp; &nbsp; (🌟 21 &nbsp;👁 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Fix and improve `typer`</i>
 <br>
 <a href="https://github.com/rec/dtyper/commit/755a29a"><code>26/06/03</code></a>🟢<code>Update version to v2.8.0</code>
 <br>
 <a href="https://github.com/rec/dtyper/commit/cce7c59"><code>26/06/03</code></a>🕰<code>Maintain compatibility with `typer` (fix #14)</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 <a href="https://github.com/rec/clsprop"><code>clsprop</code></a> 🏫 &nbsp; &nbsp; (🌟 2)
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 <a href="https://github.com/rec/clsprop"><code>clsprop</code></a> 🏫 &nbsp; &nbsp; (🌟 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Just like @property but for classes</i>
 <br>
 <a href="https://github.com/rec/clsprop/commit/e3da59c"><code>26/05/09</code></a>🟢<code>Update version to v1.5.0</code>
 <br>
 <a href="https://github.com/rec/clsprop/commit/8b2ddef"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧵 <a href="https://github.com/rec/threa"><code>threa</code></a> 🧵 &nbsp; &nbsp; (🌟 2)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧵 <a href="https://github.com/rec/threa"><code>threa</code></a> 🧵 &nbsp; &nbsp; (🌟 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Better threads</i>
 <br>
 <a href="https://github.com/rec/threa/commit/3988d00"><code>26/05/09</code></a>🟢<code>Update version to v1.11.0</code>
 <br>
 <a href="https://github.com/rec/threa/commit/ed818e3"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛏ <a href="https://github.com/rec/sproc"><code>sproc</code></a> ⛏ &nbsp; &nbsp; (🌟 12)
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛏ <a href="https://github.com/rec/sproc"><code>sproc</code></a> ⛏ &nbsp; &nbsp; (🌟 12)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Subprocesseses for subhumanses</i>
 <br>
 <a href="https://github.com/rec/sproc/commit/ae35622"><code>26/05/09</code></a>🟢<code>Update version to v2.6.0</code>
 <br>
 <a href="https://github.com/rec/sproc/commit/527fc94"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍱 <a href="https://github.com/rec/zoialib"><code>zoialib</code></a> 🍱 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍱 <a href="https://github.com/rec/zoialib"><code>zoialib</code></a> 🍱 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A patch librarian for the Empress ZOIA</i>
 <br>
 <a href="https://github.com/rec/zoialib/commit/53c241f"><code>26/05/09</code></a>🟢<code>Update version to v0.8.0</code>
 <br>
 <a href="https://github.com/rec/zoialib/commit/7c96678"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 <a href="https://github.com/rec/xmod"><code>xmod</code></a> 🌱 &nbsp; &nbsp; (🌟 5)
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 <a href="https://github.com/rec/xmod"><code>xmod</code></a> 🌱 &nbsp; &nbsp; (🌟 5)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Turn any object into a module</i>
 <br>
 <a href="https://github.com/rec/xmod/commit/56c5b04"><code>26/05/09</code></a>🟢<code>Update version to v1.10.0</code>
 <br>
 <a href="https://github.com/rec/xmod/commit/0347d2d"><code>26/05/09</code></a>🕰<code>Make project compatible with uv and poetry (fix #9)</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 <a href="https://github.com/rec/impall"><code>impall</code></a> 🛎 &nbsp; &nbsp; (🌟 8)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛎 <a href="https://github.com/rec/impall"><code>impall</code></a> 🛎 &nbsp; &nbsp; (🌟 8)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Test-import all modules</i>
 <br>
 <a href="https://github.com/rec/impall/commit/76fc2bc"><code>26/06/08</code></a>🟢<code>Update version to v2.0.0</code>
 <br>
 <a href="https://github.com/rec/impall/commit/3261f35"><code>26/06/08</code></a>🕰<code>Update type annotations to 3.10</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗂 <a href="https://github.com/rec/datacls"><code>datacls</code></a> 🗂 &nbsp; &nbsp; (🌟 3)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Take the edge off `dataclass`</i>
-<br>
-<a href="https://github.com/rec/datacls/commit/cdf9c10"><code>26/05/09</code></a>🟢<code>Update version to v4.10.0</code>
-<br>
-<a href="https://github.com/rec/datacls/commit/a60e876"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐜 <a href="https://github.com/rec/abbrev"><code>abbrev</code></a> 🐜 &nbsp; &nbsp; (🌟 5)
 <br>
@@ -161,55 +161,95 @@ thoroughly as possible.
 </tr></tbody></table>
 <p>
 <h2>Beta</h2>
-<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎧 <a href="https://github.com/rec/fmix"><code>fmix</code></a> 🎧
+<table><tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (🌟 5 &nbsp;👁 2)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A scripted track mixer</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The Universal Recorder</i>
 <br>
-<a href="https://github.com/rec/fmix/commit/b06fcb2"><code>26/05/09</code></a>🟢<code>Update version to v0.2.0</code>
+<a href="https://github.com/rec/recs/commit/896fe28"><code>26/05/09</code></a>🟢<code>Update version to v0.12.0</code>
 <br>
-<a href="https://github.com/rec/fmix/commit/820e212"><code>26/06/06</code></a>🕰<code>Extract code from __main__ into fmix/read_tyro.py</code></td>
+<a href="https://github.com/rec/recs/commit/f0fda9e"><code>26/09/16</code></a>🕰<code>Update pyproject.toml dependencies</code></td>
 
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 <a href="https://github.com/rec/tuney"><code>tuney</code></a> 🎶 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛸 <a href="https://github.com/rec/ufor"><code>ufor</code></a> 🛸
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Turn text into music (#noAI)</i>
+<i>universal Format: portable definitions for time-based data</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/ufor/commit/3b3c2ec"><code>26/09/16</code></a>🕰<code>Add an icon</code></td>
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚂 <a href="https://github.com/rec/enge"><code>enge</code></a> 🚂
+<br>
+&nbsp;<i>an audio synthesizer engine in Python and Rust</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/enge/commit/05a7879"><code>26/09/16</code></a>🕰<code>Add scoped LFO modulation for synths and samplers</code></td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎪 <a href="https://github.com/rec/showco"><code>showco</code></a> 🎪
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Local show control for recs and streamo</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/showco/commit/c6fe097"><code>26/09/16</code></a>🕰<code>Add showCo lighting cues with Go, Back, and persistent state</code></td>
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 <a href="https://github.com/rec/tuney"><code>tuney</code></a> 🎶 &nbsp; &nbsp; (🌟 4 &nbsp;👁 2)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Turn text into music</i>
 <br>
 <a href="https://github.com/rec/tuney/commit/1746b8c"><code>26/05/09</code></a>🟢<code>Update version to v0.3.0</code>
 <br>
-<a href="https://github.com/rec/tuney/commit/1c0ba55"><code>26/08/18</code></a>🕰<code>Name Tuney log startup</code></td>
+<a href="https://github.com/rec/tuney/commit/07638fd"><code>26/09/16</code></a>🕰<code>Update pyproject.toml dependencies</code></td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚰 <a href="https://github.com/rec/streamo"><code>streamo</code></a> 🚰
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Stream audio to all services</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/streamo/commit/f411c5b"><code>26/09/16</code></a>🕰<code>Add emoji</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥞 <a href="https://github.com/rec/pullman"><code>pullman</code></a> 🥞
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧚 <a href="https://github.com/rec/lyte"><code>lyte</code></a> 🧚
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Python lighting player for all lights</i>
+<br>
+
+<br>
+<a href="https://github.com/rec/lyte/commit/6dc1e59"><code>26/09/16</code></a>🕰<code>Update pyproject.toml dependencies</code></td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥞 <a href="https://github.com/rec/pullman"><code>pullman</code></a> 🥞
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Manage ghstack pull requests</i>
 <br>
 <a href="https://github.com/rec/pullman/commit/ad1d75a"><code>26/05/09</code></a>🟢<code>Update version to v0.12.0</code>
 <br>
 <a href="https://github.com/rec/pullman/commit/e6f1d69"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧 <a href="https://github.com/rec/fixo"><code>fixo</code></a> 🔧
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧 <a href="https://github.com/rec/fixo"><code>fixo</code></a> 🔧
 <br>
 <i>Semi-automatic rule based editing of Python code</i>
 <br>
 <a href="https://github.com/rec/fixo/commit/9e3d6aa"><code>26/05/09</code></a>🟢<code>Update version to v0.3.0</code>
 <br>
 <a href="https://github.com/rec/fixo/commit/e1e9413"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏺 <a href="https://github.com/rec/fil"><code>fil</code></a> 🏺 &nbsp; &nbsp; (🌟 3)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏺 <a href="https://github.com/rec/fil"><code>fil</code></a> 🏺 &nbsp; &nbsp; (🌟 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Read/write JSON/TOML/Yaml/txt</i>
 <br>
 <a href="https://github.com/rec/fil/commit/2dd3e9c"><code>26/05/09</code></a>🟢<code>Update version to v1.6.0</code>
 <br>
 <a href="https://github.com/rec/fil/commit/9f09a82"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔢 <a href="https://github.com/rec/plur"><code>plur</code></a> 🔢
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔢 <a href="https://github.com/rec/plur"><code>plur</code></a> 🔢
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Simple universal word pluralizer</i>
 <br>
 <a href="https://github.com/rec/plur/commit/1212571"><code>26/02/03</code></a>🟢<code>Update version to v1.1.0</code>
 <br>
 <a href="https://github.com/rec/plur/commit/b4756ba"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍇 <a href="https://github.com/rec/cfgs"><code>cfgs</code></a> 🍇 &nbsp; &nbsp; (🌟 3)
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍇 <a href="https://github.com/rec/cfgs"><code>cfgs</code></a> 🍇 &nbsp; &nbsp; (🌟 3)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>XDG standard config files</i>
 <br>
@@ -235,47 +275,23 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/nmr/commit/44fc70f"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
 </tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎙 <a href="https://github.com/rec/recs"><code>recs</code></a> 🎙 &nbsp; &nbsp; (🌟 5 &nbsp;👁 2)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The Universal Recorder</i>
-<br>
-<a href="https://github.com/rec/recs/commit/896fe28"><code>26/05/09</code></a>🟢<code>Update version to v0.12.0</code>
-<br>
-<a href="https://github.com/rec/recs/commit/7d966dc"><code>26/09/01</code></a>🕰<code>Revise editing-tools.md for output sessions</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔉 <a href="https://github.com/rec/vl8"><code>vl8</code></a> 🔉 &nbsp; &nbsp; (🌟 4)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Perturbed audio</i>
-<br>
-<a href="https://github.com/rec/vl8/commit/eed1b94"><code>26/05/09</code></a>🟢<code>Update version to v0.4.0</code>
-<br>
-<a href="https://github.com/rec/vl8/commit/a5a1dad"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡 <a href="https://github.com/rec/litoid"><code>litoid</code></a> 💡
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Sequence DMX lighting</i>
-<br>
-<a href="https://github.com/rec/litoid/commit/0f839ab"><code>26/05/09</code></a>🟢<code>Update version to v0.3.0</code>
-<br>
-<a href="https://github.com/rec/litoid/commit/c46e42d"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗣 <a href="https://github.com/rec/def_main"><code>def_main</code></a> 🗣
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗣 <a href="https://github.com/rec/def_main"><code>def_main</code></a> 🗣
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A decorator for main</i>
 <br>
 <a href="https://github.com/rec/def_main/commit/6b741a5"><code>26/02/03</code></a>🟢<code>Update version to v0.12.0</code>
 <br>
 <a href="https://github.com/rec/def_main/commit/5fa419d"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-</tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓 <a href="https://github.com/rec/hardback"><code>hardback</code></a> 📓
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓 <a href="https://github.com/rec/hardback"><code>hardback</code></a> 📓
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Hardcopy backups of digital data</i>
 <br>
 <a href="https://github.com/rec/hardback/commit/6c0db85"><code>26/02/03</code></a>🟢<code>Update version to v0.10.0</code>
 <br>
 <a href="https://github.com/rec/hardback/commit/de53a87"><code>26/05/08</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
-
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📦 <a href="https://github.com/rec/backer"><code>backer</code></a> 📦
+</tr>
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📦 <a href="https://github.com/rec/backer"><code>backer</code></a> 📦
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Continuously back up files</i>
 <br>
@@ -325,7 +341,7 @@ thoroughly as possible.
 <br>
 <a href="https://github.com/rec/multi/commit/b48d9d1"><code>23/02/02</code></a>🟢<code>Update to version v0.1.0</code>
 <br>
-<a href="https://github.com/rec/multi/commit/f8ff4e2"><code>26/05/09</code></a>🕰<code>Make project compatible with uv and poetry</code></td>
+<a href="https://github.com/rec/multi/commit/60ae113"><code>26/09/02</code></a>🕰<code>Modify multi/commands/bump_version.py, multi/commands/resume.py, multi/commands/update.py, pyproject.toml, uv.lock</code></td>
 </tr>
 <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;⬜🟩🟦🟥 <a href="https://github.com/rec/blocks"><code>blocks</code></a> 🟥🟦🟩⬜
 <br>
@@ -349,5 +365,5 @@ thoroughly as possible.
 <br>
 
 <br>
-<a href="https://github.com/rec/dotfiles/commit/d5075f6"><code>26/08/15</code></a>🕰<code>Modify git-commit-ids/git-commit-ids.txt</code></td>
+<a href="https://github.com/rec/dotfiles/commit/1128504"><code>26/09/16</code></a>🕰<code>fixup! Add project-summary.md</code></td>
 </tr></tbody></table>
