@@ -6,12 +6,12 @@ Resumé: [.pdf](resume.pdf) [.md](resume.md)
 
 ![My GitHub stats](https://github-stats.vercel.app/api?username=rec&show_icons=true)
 
-## I am retired! (unless...)
+## I am newly AI enhanced.
 
-We moved to Normandy. My job suddenly vanished. I took early retirement! Life is good.
+We moved to Normandy. My job suddenly vanished. I learned LLM coding.
 
-So I'm spending my time on music and digital audio programming. I'm still open to work in digital audio,
-MIDI, music, lighting control or other things close to my heart.
+I'm spending my time on digital audio programming, MIDI, music, lighting control or
+other things close to my heart, trying to establish a tiny empire.
 
 
 ## My Python open source projects
